@@ -181,7 +181,7 @@
       ],
       "custom_css": [
         "ul {list-style-type: none; margin: 0; padding: 0; overflow: hidden;}",
-        "ul li {}"
+        "ul li {list-style-type: none; margin: 0; margin-block-start: 0; margin-block-end: 0; margin-inline-start: 0; margin-inline-end: 0; padding-inline-start: 0;}"
       ],
       "settings": {
         "desktop_content_position": "center",

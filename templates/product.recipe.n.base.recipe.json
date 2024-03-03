@@ -204,7 +204,7 @@
         "text_PgznVy": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Zutaten:<\/strong><\/p>{{ product.metafields.custom.recipe_ingredients | metafield_tag }}<p><strong>Zubereitung:<\/strong><\/p><p>{{ product.metafields.custom.recipe_paragraph | metafield_tag }}<\/p><p><strong>Größe des Gerichts:<\/strong><\/p><p>{{ product.metafields.custom.receipt_size | metafield_tag }}<\/p>"
+            "text": "<p><strong>Zutaten:<\/strong><\/p>{{ product.metafields.custom.base_recipe_ingredietns | metafield_tag }}<p><strong>Zubereitung:<\/strong><\/p><p>{{ product.metafields.custom.base_recipe_text | metafield_tag }}<\/p><p><strong>Größe des Gerichts:<\/strong><\/p><p>{{ product.metafields.custom.base_recipe_size | metafield_tag }}<\/p>"
           }
         }
       },

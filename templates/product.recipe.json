@@ -124,11 +124,42 @@
         "padding_top": 40,
         "padding_bottom": 24
       }
+    },
+    "rich_text_kkbNNY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YFVzM3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Passt zu<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_A7RwHB": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Ente<\/li><li>Ziegenkäse<\/li><li>Huhn<\/li><li>Schafkäse<\/li><li>Hase<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YFVzM3",
+        "text_A7RwHB"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
     }
   },
   "order": [
     "main",
     "related-products",
-    "rich_text_iCdfjz"
+    "rich_text_iCdfjz",
+    "rich_text_kkbNNY"
   ]
 }

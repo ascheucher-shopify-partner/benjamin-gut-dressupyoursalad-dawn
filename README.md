@@ -78,7 +78,8 @@ Die hier angeführten Rezepte sind für 2 Personen. 2 Portionen Blattsalat ent
 Zutaten:
 
 * 320 g Karotten
-* 250 g Hühnerbrust (ohne Haut) - 25 g Pinienkerne
+* 250 g Hühnerbrust (ohne Haut)
+* 25 g Pinienkerne
 * Currypulver
 * 1 Bund Rucola
 * Salz und Pfeffer
@@ -91,7 +92,7 @@ Die Karotten mit dem Dressing (siehe Grundrezept S.2) marinieren und auf zwei Te
 
 Die hier angeführten Rezepte sind für 2 Personen. 2 Portionen Blattsalat entsprechen ca. 100 g (gewaschen und getrocknet)
 
-##### Grundrezept SALATDRESSING
+##### Grundrezept SALATDRESSING - TODO das recipe template kopieren und als variante mit grundrezept anlegen
 
 Grundrezept für alle Essige:
 
@@ -134,8 +135,7 @@ Zutaten:
 
 Zubereitung:
 
-Die Entenbrust hautseitig der Länge und
-Breite nach einschneiden und gut von beiden Seiten braten (dabei darauf achten, dass die Haut schön knusprig wird). Das Fleisch mit 4 Thymianzweigen (gehackt) in Alufolie einpacken und ca 30 min im Backrohr bei 70 Grad ziehen lassen. Die Butter in eine Pfanne geben und gemeinsam mit den Nüssen, dem Zucker und dem restlichen Thymian leicht karamellisieren lassen und ein wenig salzen. Den Salat gut trocknen, in eine Schüssel geben und mit dem Dressing (siehe Grundrezept S.2) marinieren. Die Ente aus dem Rohr nehmen und nochmal kurz hautseitig scharf anbraten. Das Fleisch in dünne Scheiben schneiden, mit Salz und Pfeffer würzen und gleichmäßig gemeinsam mit den Nüssen und der Thymianbutter auf dem Salat verteilen. Zum Schluss mit Himbeeressig beträufeln.
+Die Entenbrust hautseitig der Länge und Breite nach einschneiden und gut von beiden Seiten braten (dabei darauf achten, dass die Haut schön knusprig wird). Das Fleisch mit 4 Thymianzweigen (gehackt) in Alufolie einpacken und ca 30 min im Backrohr bei 70 Grad ziehen lassen. Die Butter in eine Pfanne geben und gemeinsam mit den Nüssen, dem Zucker und dem restlichen Thymian leicht karamellisieren lassen und ein wenig salzen. Den Salat gut trocknen, in eine Schüssel geben und mit dem Dressing (siehe Grundrezept S.2) marinieren. Die Ente aus dem Rohr nehmen und nochmal kurz hautseitig scharf anbraten. Das Fleisch in dünne Scheiben schneiden, mit Salz und Pfeffer würzen und gleichmäßig gemeinsam mit den Nüssen und der Thymianbutter auf dem Salat verteilen. Zum Schluss mit Himbeeressig beträufeln.
 
 Die hier angeführten Rezepte sind für 2 Personen. 2 Portionen Blattsalat entsprechen ca. 100 g (gewaschen und getrocknet)
 

@@ -108,7 +108,7 @@
         "text_tW7yqr": {
           "type": "text",
           "settings": {
-            "text": "<p>TODO beerig, fruchtig & aromatisch<\/p>"
+            "text": "{{ product.metafields.custom.geschmack | metafield_tag }}"
           }
         }
       },
@@ -138,7 +138,7 @@
         "text_A7RwHB": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Ente<\/li><li>Ziegenkäse<\/li><li>Huhn<\/li><li>Schafkäse<\/li><li>Hase<\/li><\/ul>"
+            "text": "{{ product.metafields.custom.goes_with | metafield_tag }}"
           }
         }
       },
@@ -157,12 +157,43 @@
         "padding_top": 40,
         "padding_bottom": 24
       }
+    },
+    "rich_text_7GTcni": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QFkyMH": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Rezept: <\/strong>{{ product.metafields.custom.recipe_title.value }}",
+            "heading_size": "h2"
+          }
+        },
+        "text_AFDbEt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Zutaten:<\/p>{{ product.metafields.custom.recipe_ingredients | metafield_tag }}<p>Zubereitung:<\/p><p>{{ product.metafields.custom.recipe_paragraph | metafield_tag }}<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QFkyMH",
+        "text_AFDbEt"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
     }
   },
   "order": [
     "main",
     "related-products",
     "rich_text_iCdfjz",
-    "rich_text_kkbNNY"
+    "rich_text_kkbNNY",
+    "rich_text_7GTcni"
   ]
 }

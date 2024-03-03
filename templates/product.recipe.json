@@ -171,7 +171,7 @@
         "text_AFDbEt": {
           "type": "text",
           "settings": {
-            "text": "<p>Zutaten:<\/p>{{ product.metafields.custom.recipe_ingredients | metafield_tag }}<p>Zubereitung:<\/p><p>{{ product.metafields.custom.recipe_paragraph | metafield_tag }}<\/p>"
+            "text": "<p><strong>Zutaten:<\/strong><\/p>{{ product.metafields.custom.recipe_ingredients | metafield_tag }}<p><strong>Zubereitung:<\/strong><\/p><p>{{ product.metafields.custom.recipe_paragraph | metafield_tag }}<\/p><p><strong>Größe des Gerichts:<\/strong><\/p><p>{{ product.metafields.custom.receipt_size | metafield_tag }}<\/p>"
           }
         }
       },

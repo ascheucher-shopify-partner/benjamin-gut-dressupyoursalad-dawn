@@ -28,8 +28,6 @@ Erreicht soll das werden auf den 3 Hauptseiten
   
 ### Über Benjamin Gut
 
-
-
 ### Balsamikö bei 2M2M
 
 * was ist Balsamikö
@@ -42,7 +40,6 @@ nach der show:
 * vorstellung der investoren
 * was hat benjamin damit gemacht und erreicht
 
-
 ### Nachhaltiges / Ist Komplett Österreichisch
 
 * warum balsamikö (komplett österreichisch)
@@ -51,9 +48,32 @@ nach der show:
 
 #### Balsamikö
 
+##### TODO Geschmack
+
+
+##### TODO Passt zu (Produkt damit Taggen)
+
+
+##### TODO Rezept
+
+Spargel Video Reel.
+
+Auch mit Erdbeer / Ziegenkäse flambiert
+Da kann Benjamin Rezepte schreiben.
+
+Die hier angeführten Rezepte sind für 2 Personen. 2 Portionen Blattsalat entsprechen ca. 100 g (gewaschen und getrocknet)
+
 #### Mango Essigzubereitung
 
-MEIN TIPP: Karotten-Mangosalat mit Gebratener Hühnerbrust und Pinienkernen
+##### TODO Geschmack
+
+##### Passt zu (Produkt damit Taggen)
+
+* Garnelen
+* Fisch
+* Huhn
+
+##### Rezept: Karotten-Mangosalat mit Gebratener Hühnerbrust und Pinienkernen
 
 Zutaten:
 
@@ -69,31 +89,134 @@ Zubereitung:
 Karotten schälen und fein in eine Schüssel reiben. Die Hühnerbrust in Streifen schneiden und leicht salzen. Scharf in einer großen Pfanne anbraten und mit Currypulver, Pfeffer & Salz nach Belieben würzen. Pinienkerne ohne Fett in einer Pfanne leicht anrösten.
 Die Karotten mit dem Dressing (siehe Grundrezept S.2) marinieren und auf zwei Teller aufteilen. Die Hühnerbrust und die Pinienkerne gleichmäßig verteilen und mit etwas Rucolasalat garnieren. Zum Schluss noch mit Mangoessig beträufeln.
 
-Paßt gut zu Garnelen, Fisch & Huhn
+Die hier angeführten Rezepte sind für 2 Personen. 2 Portionen Blattsalat entsprechen ca. 100 g (gewaschen und getrocknet)
+
+##### Grundrezept SALATDRESSING
+
+Grundrezept für alle Essige:
+
+* 7 EL Essig
+* Zucker nach Belieben
+* 2 EL Wasser
+* 3 EL Oliven- oder Sonnenblumenöl
+* 2 Prisen Salz
+* Alle Zutaten mit dem Pürierstab oder im Standmixer
+* ca. 1 min mixen.
+
+Die hier angeführten Rezepte sind für 2 Personen. 2 Portionen Blattsalat entsprechen ca. 100 g (gewaschen und getrocknet)
 
 #### Pura Vida Himbeere-Wasabi Dressing
 
+##### Geschmack
+
 Beerig-Fruchtig-Aromatisch
 
-Passt gut zu Ente, Huhn, Ziegenkäse
+##### Passt zu (Produkt damit Taggen)
+
+* Ente
+* Ziegenkäse
+* Huhn
+* Schafkäse
+* Hase
+
+##### Rezept: Gebratene Entenbrust auf Vogelsalat mit karamellisierten Macadamianüssen
+
+Zutaten:
+
+* 2 Portionen Vogelsalat
+(geputzt und gewaschen)
+* 1 kleine Entenbrust
+* 50 g Macadamianüsse
+* 2 TL Zucker
+* 20 g Butter
+* 5 Zweige Thymian
+* Grundrezept Himbeerdressing
+
+Zubereitung:
+
+Die Entenbrust hautseitig der Länge und
+Breite nach einschneiden und gut von beiden Seiten braten (dabei darauf achten, dass die Haut schön knusprig wird). Das Fleisch mit 4 Thymianzweigen (gehackt) in Alufolie einpacken und ca 30 min im Backrohr bei 70 Grad ziehen lassen. Die Butter in eine Pfanne geben und gemeinsam mit den Nüssen, dem Zucker und dem restlichen Thymian leicht karamellisieren lassen und ein wenig salzen. Den Salat gut trocknen, in eine Schüssel geben und mit dem Dressing (siehe Grundrezept S.2) marinieren. Die Ente aus dem Rohr nehmen und nochmal kurz hautseitig scharf anbraten. Das Fleisch in dünne Scheiben schneiden, mit Salz und Pfeffer würzen und gleichmäßig gemeinsam mit den Nüssen und der Thymianbutter auf dem Salat verteilen. Zum Schluss mit Himbeeressig beträufeln.
+
+Die hier angeführten Rezepte sind für 2 Personen. 2 Portionen Blattsalat entsprechen ca. 100 g (gewaschen und getrocknet)
 
 #### Pura Vida Limette-Sesam-Ingwer Dressing
 
+##### Geschmack
+
 Nussig-würzig-cremig
 
-Passt gut zu Thunfisch, Tofu, Gemüse
+##### Passt zu (Produkt damit Taggen)
+
+* Thunfisch
+* Tofu
+* Gemüse
+
+##### Rezept
+
+TODO rezept
 
 #### Pura Vida Mango-Curry-Pink Pepper Dressing
 
+##### Geschmack
+
 Exotisch-Fruchtig-Spicy
 
-Passt gut zu Huhn, Fisch und Tofu
+##### Passt zu (Produkt damit Taggen)
+
+* Garnelen
+* Fisch
+* Huhn
+* Tofu
+
+##### Rezept: Karotten-Mangosalat mit Gebratener Hühnerbrust und Pinienkernen
+
+Zutaten:
+
+* 320 g Karotten
+* 250 g Hühnerbrust (ohne Haut) - 25 g Pinienkerne
+* Currypulver
+* 1 Bund Rucola
+* Salz und Pfeffer
+* Grundrezept Mangodressing
+
+Zubereitung:
+
+Karotten schälen und fein in eine Schüssel reiben. Die Hühnerbrust in Streifen schneiden und leicht salzen. Scharf in einer großen Pfanne anbraten und mit Currypulver, Pfeffer & Salz nach Belieben würzen. Pinienkerne ohne Fett in einer Pfanne leicht anrösten.
+Die Karotten mit dem Dressing (siehe Grundrezept S.2) marinieren und auf zwei Teller aufteilen. Die Hühnerbrust und die Pinienkerne gleichmäßig verteilen und mit etwas Rucolasalat garnieren. Zum Schluss noch mit Mangoessig beträufeln.
+
+Die hier angeführten Rezepte sind für 2 Personen. 2 Portionen Blattsalat entsprechen ca. 100 g (gewaschen und getrocknet)
 
 #### Pura Vida Trüffel-Cashew-Miso Dressing
 
-Cremig-Trüffelig   DAS ERSTE TRÜFFELDRESSING DER WELT
+DAS ERSTE TRÜFFELDRESSING DER WELT
 
-Passt gut zu Rind, Jakobsmuschel, Pilzen
+##### Geschmack
+
+Cremig-Trüffelig
+
+##### Passt zu (Produkt damit Taggen)
+
+* Rind
+* Jakobsmuschel
+* Pilzen
+
+##### Rezept: bunter Blattsalat mit rosa hirschrücken und Gebratenen maroni
+
+Zutaten:
+
+* 2 Portionen Blattsalat
+* 250 g Hirschrückenfilet (ohne Knochen) - 50 g Maroni (geschält und gekocht)
+* 20 g Butter
+* 2 Zweige frischen Rosmarin (gezupft)
+* Salz und Pfeffer
+* 1 TL Zucker
+* Grundrezept Johannisbeerdressing
+
+Zubereitung:
+
+Den Hirschrücken leicht salzen & in einer Pfanne von allen Seiten scharf anbraten. Einen Zweig Rosmarin hacken und mit dem Hirschrücken in Alufolie einpacken. Das Ganze bei 70 Grad ca. 20 min im Backrohr ziehen lassen. Die Maroni mit etwas Butter, einem Zweig Rosmarin (gehackt) und dem Zucker in die Pfanne geben, leicht anbraten und ein wenig salzen. Den Salat gut trocknen, in eine große Schüssel geben und mit dem Dressing (siehe Grundrezept S.2) marinieren. Salat auf 2 Teller aufteilen. Den Hirschrücken in Scheiben schneiden, salzen und pfeffern, und gleichmäßig verteilen. Die Maroni gemeinsam mit der Rosmarinbutter über den Salat geben und mit etwas Johannisbeeressig beträufeln.
+
+Die hier angeführten Rezepte sind für 2 Personen. 2 Portionen Blattsalat entsprechen ca. 100 g (gewaschen und getrocknet)
 
 ## Vorhandenes Rohmaterial
 
@@ -177,22 +300,12 @@ Erlebe den Geschmack unserer genussvollen Essigzubereitung in Kombination mit de
 #### Wir sind sehr stolz Euch unsere neueste Kreation vorzustellen zu dürfen
 
 BALSAMI.K.Ö.
+
 Erlebe den Geschmack unseres genussvollen Balsamicos in Kombination mit der
-unvergleichlichen Qualität Österreichischer Zutaten. BALSAMIKÖ eignet sich ideal für Salate und lässt sich kreativ in jede Küche
-einbringen.
+unvergleichlichen Qualität Österreichischer Zutaten. 
 
-#### frisches Salatdressing
+BALSAMIKÖ eignet sich ideal für Salate und lässt sich kreativ in jede Küche einbringen.
 
-Mit unserem Balsamikö gelingt es jedem ein leckeres und schnelles Salatdressing zu zaubern. ✨
-Der Balsamikö hat einen einzigartigen Geschmack und mit wenigen Zutaten könnt Ihr ein frisches Salatdressing herstellen.
-
-Dazu benötigt ihr:
-🔸 3 EL Balsamikö
-🔸 3 EL Olivenöl
-🔸 1 Prise Salz
-🔸 Pfeffer (nach Belieben)
-
-Diese Zutaten einfach verrühren und schon habt ihr ein fertiges Dressing das gut zu allen Salaten passt.
 
 #### Benjamin
 
@@ -270,6 +383,19 @@ Rezept für ein schnelles Dressing:
 1 Prise Salz
 Pfeffer (nach Belieben)
 
+#### frisches Salatdressing
+
+Mit unserem Balsamikö gelingt es jedem ein leckeres und schnelles Salatdressing zu zaubern. ✨
+Der Balsamikö hat einen einzigartigen Geschmack und mit wenigen Zutaten könnt Ihr ein frisches Salatdressing herstellen.
+
+Dazu benötigt ihr:
+🔸 3 EL Balsamikö
+🔸 3 EL Olivenöl
+🔸 1 Prise Salz
+🔸 Pfeffer (nach Belieben)
+
+Diese Zutaten einfach verrühren und schon habt ihr ein fertiges Dressing das gut zu allen Salaten passt.
+
 ## Übernahme Altdaten
 
 Benjamin Gut – Fruchtige & Exotische Essigzubereitungen
@@ -312,14 +438,14 @@ f87131
 
 ## Audio Transcript
 
-Dressings, rezepte werden ummodeliert. Fruchtessig -> Dressing.
+Dressings, Rezepte werden ummodeliert. Fruchtessig -> Dressing.
 Dressing ja das um
 
 Mango -> Mango
 
-Himbeer -> Himbeer
+X Himbeer -> Himbeer
 
-Johanisbeer -> Trüffel
+X Johanisbeer -> Trüffel
 
 Soja Limette Ingwer kommt neu von Benjamin
 

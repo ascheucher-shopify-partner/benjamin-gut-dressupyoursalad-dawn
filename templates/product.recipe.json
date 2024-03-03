@@ -117,7 +117,7 @@
         "text_tW7yqr"
       ],
       "settings": {
-        "desktop_content_position": "left",
+        "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
@@ -147,10 +147,10 @@
         "text_A7RwHB"
       ],
       "custom_css": [
-        "ul li {list-style-type: none;margin: 0;margin-block-start: 0;margin-block-end: 0;margin-inline-start: 0;margin-inline-end: 0;padding-inline-start: 0;}"
+        "ul li {list-style-type: none; margin: 0; margin-block-start: 0; margin-block-end: 0; margin-inline-start: 0; margin-inline-end: 0; padding-inline-start: 0;}"
       ],
       "settings": {
-        "desktop_content_position": "left",
+        "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,

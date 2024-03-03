@@ -116,6 +116,9 @@
         "heading_rRp47T",
         "text_tW7yqr"
       ],
+      "custom_css": [
+        "li {display: inline-flex; padding: 0 10px;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",

@@ -116,6 +116,9 @@
         "heading_rRp47T",
         "text_tW7yqr"
       ],
+      "custom_css": [
+        "li {display: inline-flex; padding: 0 10px;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -147,7 +150,7 @@
         "text_A7RwHB"
       ],
       "custom_css": [
-        "ul li {list-style-type: none; margin: 0; margin-block-start: 0; margin-block-end: 0; margin-inline-start: 0; margin-inline-end: 0; padding-inline-start: 0;}"
+        "li {display: inline-flex; padding: 0 10px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -187,6 +190,36 @@
         "padding_top": 40,
         "padding_bottom": 24
       }
+    },
+    "rich_text_FGxTrd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iiXBqC": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Grundezept: <\/strong>{{ product.metafields.custom.base_recipe_ingredietns | metafield_text }}",
+            "heading_size": "h2"
+          }
+        },
+        "text_PgznVy": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Zutaten:<\/strong><\/p>{{ product.metafields.custom.base_recipe_ingredietns | metafield_tag }}<p><strong>Zubereitung:<\/strong><\/p><p>{{ product.metafields.custom.base_recipe_text | metafield_tag }}<\/p><p><strong>Größe des Gerichts:<\/strong><\/p><p>{{ product.metafields.custom.base_recipe_size | metafield_tag }}<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iiXBqC",
+        "text_PgznVy"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
     }
   },
   "order": [
@@ -194,6 +227,7 @@
     "related-products",
     "rich_text_iCdfjz",
     "rich_text_kkbNNY",
-    "rich_text_7GTcni"
+    "rich_text_7GTcni",
+    "rich_text_FGxTrd"
   ]
 }

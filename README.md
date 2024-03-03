@@ -2,10 +2,6 @@
 
 ## TODO - was brauch ich noch für Texte
 
-* Balsamikö Collection Beschreibung
-* Pura Vida Collection Beschreibung
-* Essigzubereitung Collection? Beschreibung
-
 ## Konzept
 
 SEO Optimierte Seite, die vor allem auf die Keywords geht:
@@ -22,7 +18,7 @@ Erreicht soll das werden auf den 3 Hauptseiten
 
 * Übersicht - was ist balsamikö - foto - slogan - kurze erklärung
 * Produkt einblendung
-* Info über Balsmaikö
+* Info über Balsamikö
 * Collection anderer Produkte
 * Referals
   
@@ -54,16 +50,48 @@ nach der show:
 ##### TODO Passt zu (Produkt damit Taggen)
 
 
-##### TODO Rezept
+##### Rezept: Spargel Birnen Salat
 
-Spargel Video Reel.
+Zutaten (Für eine Person):
 
-Auch mit Erdbeer / Ziegenkäse flambiert
-Da kann Benjamin Rezepte schreiben.
+* 3 gekochte Spargelstangen
+* ⁠1 gekochte Birne
+* ⁠1 Stück rote Chillischote
+* ⁠2 EL geröstete Kürbiskerne
+* ⁠gehackter Kerbel
 
-Die hier angeführten Rezepte sind für 2 Personen. 2 Portionen Blattsalat entsprechen ca. 100 g (gewaschen und getrocknet)
+Für den Spargel-Birnen-Salat zuerst die Spargel schälen und in Salzwasser ca. 10-12 Minuten bissfest kochen, kalt abschrecken und in 2 cm große Stücke schneiden.
+
+Die Birnen halbieren, die Kerne entfernen, in längliche dünne Spalten schneiden. Spargel und Birnen zusammenmischen.
+
+Chilli der Länge nach halbieren, Kerne entfernen in dünne Streifen schneiden und über den Salat geben.
+
+Kürbiskerne vorsichtig rösten und ebenfalls über den Salat geben.
+
+Am Schluss mit gehackten Kerbel verfeinern und mit dem BALSAMIKÖ Dressing verfeinern.
+
+
+TODO zweites Rezept einbauen
+
+Rezept für ein schnelles Dressing:
+3 EL Balsamikö
+3 EL Olivenöl
+1 Prise Salz
+Pfeffer (nach Belieben)
+
+
+TODO Auch mit Erdbeer / Ziegenkäse flambiert
+TODO Spargel Video Reel.
+
+
+
+Die hier angeführten Rezepte ist für 1 Person. 1 Portion Blattsalat entsprechen ca. 100 g (gewaschen und getrocknet)
 
 #### Mango Essigzubereitung
+
+TODO einbauen:
+
+Unsere fruchtige Mango Essigzubereitung schmeckt hervorragend zu Fisch und Meeresfrüchte sowie Hühnerfleisch und Tofu. Besonders gut harmoniert die Mango Essigzubereitung mit Curry und Pfeffer.
 
 ##### TODO Geschmack
 
@@ -124,8 +152,7 @@ Beerig-Fruchtig-Aromatisch
 
 Zutaten:
 
-* 2 Portionen Vogelsalat
-(geputzt und gewaschen)
+* 2 Portionen Vogelsalat (geputzt und gewaschen)
 * 1 kleine Entenbrust
 * 50 g Macadamianüsse
 * 2 TL Zucker
@@ -141,6 +168,13 @@ Die hier angeführten Rezepte sind für 2 Personen. 2 Portionen Blattsalat ent
 
 #### Pura Vida Limette-Sesam-Ingwer Dressing
 
+TODO einbauen:
+
+Unser Pura Vida Salatdressing Limette Sesam Ingwer überzeugt durch seinen einzigartigen umami Geschmack.
+Die leichte Süße harmoniert perfekt mit der angenehmen Säure der Limette, dem nussigen Aroma des Sesams sowie der dezente Schärfe des Ingwers.
+Unser Pura Vida Salatdressing Limette Sesam Ingwer passt hervorragend zu Pilzen, Tofu, Fisch und Fleisch.
+Du kannst es aber auch einfach als Sauce für deine Bowls oder als Dip für Sushi verwenden.
+
 ##### Geschmack
 
 Nussig-würzig-cremig
@@ -151,9 +185,25 @@ Nussig-würzig-cremig
 * Tofu
 * Gemüse
 
-##### Rezept
+##### Rezept: Knuspriger Sesam Tofu auf Blattsalat
 
-TODO rezept
+Zutaten:
+
+200g Tofu
+2 EL Sojasauce
+1 EL Dattelsirup
+1 TL Kokosöl für die Marinade
+¼ TL Chilipulver
+2 EL Speisestärke
+1 EL Sesam
+2 EL Kokos Öl zum Braten
+
+Zubereitung:
+Sojasauce, Dattelsirup, Kokos Öl und Chilipulver zu einer Marinade verrühren. Den Tofu zwischen mehrere Blätter Küchenpapier legen und die Flüssigkeit herausdrücken. Anschließend den Tofu in Würfel schneiden und in einer Schüssel mit der Marinade vermengen. Mindestens 30 Minuten ziehen lassen.
+
+Die Stärke und die Sesamkörner hinzugeben und alles gut miteinander vermischen. Das Kokos Öl in einer Pfanne erhitzen und den Tofu zuerst 1-2 Minuten scharf anbraten, dann bei mittlerer Hitze 5- 6 Minuten weiterbraten, bis er eine goldbraune Farbe angenommen hat.
+
+Jetzt brauchst du nur noch zwei Portionen Blattsalat mit unseren Pura Vida Salatdressing marinieren und den knusprigen Tofu darauf verteilen.
 
 #### Pura Vida Mango-Curry-Pink Pepper Dressing
 
@@ -173,7 +223,8 @@ Exotisch-Fruchtig-Spicy
 Zutaten:
 
 * 320 g Karotten
-* 250 g Hühnerbrust (ohne Haut) - 25 g Pinienkerne
+* 250 g Hühnerbrust (ohne Haut)
+* 25 g Pinienkerne
 * Currypulver
 * 1 Bund Rucola
 * Salz und Pfeffer
@@ -200,12 +251,13 @@ Cremig-Trüffelig
 * Jakobsmuschel
 * Pilzen
 
-##### Rezept: bunter Blattsalat mit rosa hirschrücken und Gebratenen maroni
+##### Rezept: Bunter Blattsalat mit rosa Hirschrücken und Gebratenen Maroni
 
 Zutaten:
 
 * 2 Portionen Blattsalat
-* 250 g Hirschrückenfilet (ohne Knochen) - 50 g Maroni (geschält und gekocht)
+* 250 g Hirschrückenfilet (ohne Knochen)
+* 50 g Maroni (geschält und gekocht)
 * 20 g Butter
 * 2 Zweige frischen Rosmarin (gezupft)
 * Salz und Pfeffer

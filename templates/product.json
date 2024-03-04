@@ -61,6 +61,19 @@
             "icon_3": "none",
             "heading_3": ""
           }
+        },
+        "complementary_aCFfxK": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Dazu passt:",
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": false
+          }
         }
       },
       "block_order": [
@@ -72,7 +85,8 @@
         "buy_buttons",
         "description",
         "share",
-        "icon_with_text_ciNjWf"
+        "icon_with_text_ciNjWf",
+        "complementary_aCFfxK"
       ],
       "settings": {
         "enable_sticky_info": true,

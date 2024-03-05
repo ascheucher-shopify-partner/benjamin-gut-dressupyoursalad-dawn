@@ -67,7 +67,6 @@
         "text_jKzXJp"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Traditionelles_Niederosterreichisches_Menscha_mit_einem_Korb_voll_Trauben.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -81,11 +80,65 @@
         "padding_top": 76,
         "padding_bottom": 72
       }
+    },
+    "multicolumn_dyPacM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JnF4mR": {
+          "type": "column",
+          "settings": {
+            "title": "Ist Komplett Österreichisch",
+            "text": "<p>Ein Genuss für alle Sinne. BALSAMIKÖ überzeugt mit seinem einzigartigen Geschmack und seiner unvergleichlichen Aromenvielfalt.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GaqciQ": {
+          "type": "column",
+          "settings": {
+            "title": "Perfekt für Feinschmecker und Genießer.",
+            "text": "<p>Mit BALSAMIKÖ werten Sie jedes Gericht auf und setzen ein kulinarisches Highlight.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tf8BRM": {
+          "type": "column",
+          "settings": {
+            "title": "Ein Hauch von Österreich in jedem Gericht.",
+            "text": "<p>Verleihe deinen Salaten, Fleischgerichten und Desserts das gewisse Etwas.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JnF4mR",
+        "column_GaqciQ",
+        "column_tf8BRM"
+      ],
+      "settings": {
+        "title": "BALSAM I.K.Ö.",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "image_banner_QMdzwW",
-    "image_with_text_gbMH87"
+    "image_with_text_gbMH87",
+    "multicolumn_dyPacM"
   ]
 }

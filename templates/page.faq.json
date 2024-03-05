@@ -60,9 +60,9 @@
         "collapsible_row_JMke39": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Kann ich den Balsamikö auch für Salatdressings verwenden?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Ja, unser Balsamikö passt hervorragend zu allen Salaten.<\/p>",
             "page": ""
           }
         },
@@ -95,36 +95,6 @@
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich_text_eV9Q6r": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_9ABVaV": {
-          "type": "heading",
-          "settings": {
-            "heading": "Kann ich den Balsamikö ganz normal wie einen Aceto Balsamico verwenden?",
-            "heading_size": "h2"
-          }
-        },
-        "text_hJeq7N": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Ja, unser Balsamico ist eine österreichische Alternative zu jeden Aceto Balsamico Essig.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_9ABVaV",
-        "text_hJeq7N"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "rich_text_Fm4kke": {
@@ -282,7 +252,6 @@
     "main",
     "image_banner_FKFGwy",
     "collapsible_content_mGf6xL",
-    "rich_text_eV9Q6r",
     "rich_text_Fm4kke",
     "rich_text_Bdf6ge",
     "rich_text_4nmEXY",

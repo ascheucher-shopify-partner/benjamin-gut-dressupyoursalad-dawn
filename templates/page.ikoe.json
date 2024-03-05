@@ -11,19 +11,27 @@
     "image_banner_QMdzwW": {
       "type": "image-banner",
       "blocks": {
+        "heading_9hJrQj": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>BALSAMIKÖ:<\/strong> Das flüssige Gold Österreichs.",
+            "heading_size": "h1"
+          }
+        },
         "text_KDwaw3": {
           "type": "text",
           "settings": {
-            "text": "Deine Gäste finden Zutaten, die um die halbe Welt gereist sind, nicht wirklich optimal?",
+            "text": "<strong>Mehr als nur Essig.<\/strong> Ein komplexes Geschmackserlebnis, das aus heimischen Trauben in liebevoller Handarbeit entsteht.",
             "text_style": "body"
           }
         }
       },
       "block_order": [
+        "heading_9hJrQj",
         "text_KDwaw3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ara_mit_Mango_im_Sturm_1.jpg",
+        "image": "shopify:\/\/shop_images\/Eine_Flasche_Balsamiko_an_einem_Teller_mit_Gericht_das_mit_Balsamiko_verfeinert_wurde.jpg",
         "image_overlay_opacity": 50,
         "image_height": "medium",
         "desktop_content_position": "bottom-left",

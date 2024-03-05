@@ -1,12 +1,54 @@
 {
   "sections": {
+    "rich_text_GHDx4F": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PFEbTg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Der Salat schmeckt langweilig?!",
+            "heading_size": "h1"
+          }
+        },
+        "text_wjqgpc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Gäste stehen vor der Türe, aber der Salat schmeckt noch immer nicht gut genug?<\/p>"
+          }
+        },
+        "button_rgdNyL": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PFEbTg",
+        "text_wjqgpc",
+        "button_rgdNyL"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "BALSAM I.K.Ö. 2&nbsp;Minuten, 2&nbsp;Millionen",
+            "heading": "BALSAM I.K.Ö.  - bekannt durch 2 Minuten, 2&nbsp;Millionen - gibt deinem Essen den letzten Schliff!",
             "heading_size": "h0"
           }
         },
@@ -197,6 +239,7 @@
     }
   },
   "order": [
+    "rich_text_GHDx4F",
     "image_banner",
     "featured_product_VtjEKF",
     "image_banner_yW7bbY",

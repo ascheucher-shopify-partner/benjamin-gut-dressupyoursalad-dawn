@@ -50,25 +50,46 @@
         "padding_bottom": 52
       }
     },
-    "video_r6KRJX": {
-      "type": "video",
+    "image_banner_B6atW9": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UANQ9r": {
+          "type": "heading",
+          "settings": {
+            "heading": "BALSAMIKÖ bei 2 Minuten, 2 Millionen",
+            "heading_size": "h1"
+          }
+        },
+        "text_9UDb9z": {
+          "type": "text",
+          "settings": {
+            "text": "Der Auftritt bei 2 Minuten, 2 Millionen ist eine riesige Chance für Benjamin Gut und BALSAMIKÖ!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UANQ9r",
+        "text_9UDb9z"
+      ],
       "settings": {
-        "heading": "Bekommt Benjamin den Deal über € 50.000? - TODO mit video von der Präsentation ersetzen.",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/Bewerbung 2M2M - wide.mov",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
+        "image": "shopify:\/\/shop_images\/Unicorn_Header.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
   "order": [
     "main",
     "rich_text_hQw9cb",
-    "video_r6KRJX"
+    "image_banner_B6atW9"
   ]
 }

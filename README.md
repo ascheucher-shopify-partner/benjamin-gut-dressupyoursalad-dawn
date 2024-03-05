@@ -6,10 +6,9 @@
 
 SEO Optimierte Seite, die vor allem auf die Keywords geht:
 
-* Balsamikö 2 Minuten 2 Millionen (2M2M)
-* 2M2M Balsamikö
-* 2M2M Benjamin Gut
-* 2M2M Benjamin Brameshuber
+* Balsamikö 2 Minuten 2 Millionen (2M2M) - Homepage
+* Balsam Ist Komplett Österreichisch - Balsamikö Bei 2M2M
+* 2M2M Benjamin Gut - über Benjamin Gut / Benjamin Brameshuber
 * ...
 
 Erreicht soll das werden auf den 3 Hauptseiten
@@ -46,9 +45,7 @@ nach der show:
 
 ##### TODO Geschmack
 
-
 ##### TODO Passt zu (Produkt damit Taggen)
-
 
 ##### Rezept: Spargel Birnen Salat
 
@@ -79,11 +76,8 @@ Rezept für ein schnelles Dressing:
 1 Prise Salz
 Pfeffer (nach Belieben)
 
-
 TODO Auch mit Erdbeer / Ziegenkäse flambiert
 TODO Spargel Video Reel.
-
-
 
 Die hier angeführten Rezepte ist für 1 Person. 1 Portion Blattsalat entsprechen ca. 100 g (gewaschen und getrocknet)
 
@@ -464,8 +458,8 @@ Produktdaten:
 * essigzubereitung-mango lagerstand 0 & deny
 * compare at preise nicht alle gesetzt. grundsätzlich gut, aber ist das absicht?
 * barcode fehlt bei fast allen
-* SEO Titel
-* SEO Desc
+* TODO SEO Titel
+* TODO SEO Desc
 
 ## Design Konzept
 
@@ -505,3 +499,18 @@ Balsamikö -> Spargel Video Reel.
 
 Auch mit Erdbeer / Ziegenkäse flambiert
 Da kann Benjamin Rezepte schreiben.
+
+
+## Social Media
+
+Social accounts:
+
+[X] Facebook
+[X] Instagram
+[ ] YouTube
+[ ] TikTok
+[ ] Twitter
+[ ] Snapchat
+[ ] Pinterest
+[ ] Tumblr
+[ ] Vimeo

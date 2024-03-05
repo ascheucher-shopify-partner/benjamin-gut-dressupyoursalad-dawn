@@ -69,9 +69,9 @@
         "collapsible_row_t6ePCz": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Wie lange ist der Balsamikö nach dem öffnen haltbar?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Du kannst unseren Balsamikö nach den öffnen ca 3 Monate verwenden.<\/p>",
             "page": ""
           }
         }
@@ -95,36 +95,6 @@
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich_text_Fm4kke": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_fbkb8B": {
-          "type": "heading",
-          "settings": {
-            "heading": "Kann ich den Balsamikö auch für Salatdressings verwenden?",
-            "heading_size": "h2"
-          }
-        },
-        "text_PeHc8n": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Ja, unser Balsamikö passt hervorragend zu allen Salaten.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_fbkb8B",
-        "text_PeHc8n"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "rich_text_Bdf6ge": {
@@ -252,7 +222,6 @@
     "main",
     "image_banner_FKFGwy",
     "collapsible_content_mGf6xL",
-    "rich_text_Fm4kke",
     "rich_text_Bdf6ge",
     "rich_text_4nmEXY",
     "rich_text_xELnEx",

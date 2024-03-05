@@ -34,7 +34,7 @@
         "image": "shopify:\/\/shop_images\/Eine_Flasche_Balsamiko_an_einem_Teller_mit_Gericht_das_mit_Balsamiko_verfeinert_wurde.jpg",
         "image_overlay_opacity": 50,
         "image_height": "medium",
-        "desktop_content_position": "bottom-left",
+        "desktop_content_position": "top-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "",

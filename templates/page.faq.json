@@ -81,32 +81,20 @@
         "heading_9ABVaV": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "Kann ich den Balsamikö ganz normal wie einen Aceto Balsamico verwenden?",
+            "heading_size": "h2"
           }
         },
         "text_hJeq7N": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "button_G3FHXf": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Ja, unser Balsamico ist eine österreichische Alternative zu jeden Aceto Balsamico Essig.<\/p>"
           }
         }
       },
       "block_order": [
         "heading_9ABVaV",
-        "text_hJeq7N",
-        "button_G3FHXf"
+        "text_hJeq7N"
       ],
       "settings": {
         "desktop_content_position": "center",

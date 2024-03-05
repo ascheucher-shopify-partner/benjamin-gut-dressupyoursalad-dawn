@@ -138,64 +138,35 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_xELnEx": {
-      "type": "rich-text",
+    "collapsible_content_hQwXYr": {
+      "type": "collapsible-content",
       "blocks": {
-        "heading_YN93rV": {
-          "type": "heading",
-          "settings": {
-            "heading": "Wo werden die Essigzubereitungen hergestellt?",
-            "heading_size": "h2"
-          }
-        },
-        "text_qPjFhH": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Wie auch BALSAMIKÖ, werden unsere Essigzubereitungen ausschließlich in Österreich hergestellt. Zutaten wie z.B. Beeren können natürlich von weiter her kommen.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_YN93rV",
-        "text_qPjFhH"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "rich_text_Mazzk8": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_7iPfgh": {
-          "type": "heading",
+        "collapsible_row_dLQabE": {
+          "type": "collapsible_row",
           "settings": {
             "heading": "Wo werden die PURA VIDA Dressings hergestellt?",
-            "heading_size": "h2"
-          }
-        },
-        "text_TRL3yn": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Wie auch BALSAMIKÖ, werden unsere Dressings ausschließlich in Österreich hergestellt. Zutaten wie z.B. die Mango kommen natürlich von weiter her.<\/p>"
+            "icon": "check_mark",
+            "row_content": "<p>Wie auch BALSAMIKÖ, werden unsere Dressings ausschließlich in Österreich hergestellt. Zutaten wie z.B. die Mango kommen natürlich von weiter her.<\/p>",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "heading_7iPfgh",
-        "text_TRL3yn"
+        "collapsible_row_dLQabE"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "caption": "PURA VIDA Dressings",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -204,7 +175,6 @@
     "image_banner_FKFGwy",
     "collapsible_content_mGf6xL",
     "collapsible_content_jynFkk",
-    "rich_text_xELnEx",
-    "rich_text_Mazzk8"
+    "collapsible_content_hQwXYr"
   ]
 }

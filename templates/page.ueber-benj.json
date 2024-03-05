@@ -2,44 +2,37 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
-    }
-  },
-  "rich_text_LiRitV": {
-    "type": "rich-text",
-    "blocks": {
-      "heading_wzpH4G": {
-        "type": "heading",
-        "settings": {
-          "heading": "Benjamin Brameshuber",
-          "heading_size": "h1"
+    },
+    "rich_text_DHWafX": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9TNVTJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Schon immer habe ich mich für hochwertige Lebensmittel begeistern können. Daher habe ich mich auch entschieden Koch zu werden.\"<\/em><\/p>"
+          }
         }
       },
-      "text_K9LfHM": {
-        "type": "text",
-        "settings": {
-          "text": "<p><em>\"Schon immer habe ich mich für hochwertige Lebensmittel begeistern können. Daher habe ich mich auch entschieden Koch zu werden.\"<\/em><\/p>"
-        }
+      "block_order": [
+        "text_9TNVTJ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
-    },
-    "block_order": [
-      "heading_wzpH4G",
-      "text_K9LfHM"
-    ],
-    "settings": {
-      "desktop_content_position": "center",
-      "content_alignment": "center",
-      "color_scheme": "",
-      "full_width": true,
-      "padding_top": 40,
-      "padding_bottom": 52
     }
   },
   "order": [
     "main",
-    "rich_text_LiRitV"
+    "rich_text_DHWafX"
   ]
 }

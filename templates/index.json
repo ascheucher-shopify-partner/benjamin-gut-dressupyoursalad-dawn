@@ -55,14 +55,14 @@
         "text_DCXFqk": {
           "type": "text",
           "settings": {
-            "text": "Erlebe den Geschmack unseres genussvollen Balsamicos in Kombination mit der unvergleichlichen Qualität Österreichischer Zutaten.",
+            "text": "Deinen Gästen wird der Salat auf der Zunge zergehen und du darfst als Gastgeber glänzen!",
             "text_style": "subtitle"
           }
         },
         "buttons_9NA9Qg": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Alles Balsamikö",
+            "button_label_1": "Ja, ich will BALSAMIKÖ kaufen",
             "button_link_1": "shopify:\/\/products\/balsamiko-essig",
             "button_style_secondary_1": true,
             "button_label_2": "",

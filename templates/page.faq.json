@@ -215,6 +215,36 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "rich_text_Mazzk8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7iPfgh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wo werden die PURA VIDA Dressings hergestellt?",
+            "heading_size": "h2"
+          }
+        },
+        "text_TRL3yn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wie auch BALSAMIKÖ, werden unsere Dressings ausschließlich in Österreich hergestellt. Zutaten wie z.B. die Mango kommen natürlich von weiter her.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7iPfgh",
+        "text_TRL3yn"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -225,6 +255,7 @@
     "rich_text_Fm4kke",
     "rich_text_Bdf6ge",
     "rich_text_4nmEXY",
-    "rich_text_xELnEx"
+    "rich_text_xELnEx",
+    "rich_text_Mazzk8"
   ]
 }

@@ -8,39 +8,67 @@
         "padding_bottom": 28
       }
     },
-    "image_with_text_BLtnkT": {
+    "image_banner_QMdzwW": {
+      "type": "image-banner",
+      "blocks": {
+        "text_KDwaw3": {
+          "type": "text",
+          "settings": {
+            "text": "Deine Gäste finden Zutaten, die um die halbe Welt gereist sind, nicht wirklich optimal?",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_KDwaw3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Ara_mit_Mango_im_Sturm_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_with_text_gbMH87": {
       "type": "image-with-text",
       "blocks": {
-        "heading_JnC78F": {
+        "heading_TJKJyd": {
           "type": "heading",
           "settings": {
-            "heading": "Benjamin Brameshuber",
+            "heading": "BALSAM I.K.Ö. Ist Komplett Österreichisch",
             "heading_size": "h1"
           }
         },
-        "text_HcTihU": {
+        "text_JgkX8f": {
           "type": "text",
           "settings": {
-            "text": "<p>Produktentwickler und kreativer Kopf der Benjamin Gut GmbH.<br\/>Als gelernter Koch bin ich schon recht früh in die Welt hochwertiger Lebensmittel und außergewöhnlicher Zutaten eingetaucht.<br\/><\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
         },
-        "button_cagWkN": {
+        "button_GhhME3": {
           "type": "button",
           "settings": {
-            "button_label": "",
+            "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "heading_JnC78F",
-        "text_HcTihU",
-        "button_cagWkN"
+        "heading_TJKJyd",
+        "text_JgkX8f",
+        "button_GhhME3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSC0369_1.jpg",
+        "image": "shopify:\/\/shop_images\/Traditionelles_Niederosterreichisches_Menscha_mit_einem_Korb_voll_Trauben.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -58,6 +86,7 @@
   },
   "order": [
     "main",
-    "image_with_text_BLtnkT"
+    "image_banner_QMdzwW",
+    "image_with_text_gbMH87"
   ]
 }

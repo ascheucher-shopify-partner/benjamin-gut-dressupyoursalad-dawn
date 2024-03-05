@@ -134,6 +134,66 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "rich_text_Bdf6ge": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_myGpQk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wie lange ist der Balsamikö nach dem öffnen haltbar?",
+            "heading_size": "h2"
+          }
+        },
+        "text_6cWPab": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du kannst unseren Balsamikö nach den öffnen ca 3 Monate verwenden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_myGpQk",
+        "text_6cWPab"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_4nmEXY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8xU4eb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wie lange ist Balsamikö nach dem öffnen haltbar?",
+            "heading_size": "h2"
+          }
+        },
+        "text_rRi9ia": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ab Lieferung haben wir 12 Monate Mhd.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8xU4eb",
+        "text_rRi9ia"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -141,6 +201,8 @@
     "image_banner_FKFGwy",
     "rich_text_WaqctG",
     "rich_text_eV9Q6r",
-    "rich_text_Fm4kke"
+    "rich_text_Fm4kke",
+    "rich_text_Bdf6ge",
+    "rich_text_4nmEXY"
   ]
 }

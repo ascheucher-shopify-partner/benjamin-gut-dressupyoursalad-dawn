@@ -17,30 +17,10 @@
             "heading": "Oft gestellte Fragen",
             "heading_size": "h1"
           }
-        },
-        "text_Gdf9H3": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_cBaVBL": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "heading_e8NnMJ",
-        "text_Gdf9H3",
-        "buttons_cBaVBL"
+        "heading_e8NnMJ"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/PHOTO-2023-05-11-23-04-19.jpg",
@@ -55,10 +35,50 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "rich_text_WaqctG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cDpEKA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wird der Balsamikö in Österreich hergestellt?",
+            "heading_size": "h2"
+          }
+        },
+        "text_fYzKaz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ja, unser Balsamikö und all seine Zutaten werden ausschließlich in Österreich hergestellt.<\/p>"
+          }
+        },
+        "caption_t6Ag6D": {
+          "type": "caption",
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cDpEKA",
+        "text_fYzKaz",
+        "caption_t6Ag6D"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_FKFGwy"
+    "image_banner_FKFGwy",
+    "rich_text_WaqctG"
   ]
 }

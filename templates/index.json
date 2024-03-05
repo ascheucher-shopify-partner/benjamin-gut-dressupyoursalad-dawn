@@ -42,6 +42,80 @@
         "padding_bottom": 52
       }
     },
+    "slideshow_eg84H4": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_en4MHE": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Benjamin_mit_BALSAMIKO_Flasche_am_Schneidbrett_fe24139d-5ab7-4492-bf26-deb3bddb1667.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_mUyfqB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC0263_2.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_DEpRMA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC0173_1.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_en4MHE",
+        "slide_mUyfqB",
+        "slide_DEpRMA"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Bilder Slideshow zu BALSAMIKÖ"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -240,6 +314,7 @@
   },
   "order": [
     "rich_text_GHDx4F",
+    "slideshow_eg84H4",
     "image_banner",
     "featured_product_VtjEKF",
     "image_banner_yW7bbY",

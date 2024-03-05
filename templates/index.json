@@ -168,20 +168,20 @@
           "type": "heading",
           "settings": {
             "heading": "BALSAMIKÖ bei 2&nbsp;Minuten, 2&nbsp;Millionen präsentiert.",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_xw7Ybx": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Auch unsere Dressings und Essigzubereitungen lässt ihre Gäste ihre Speisen genießen und Sie zufrieden an den Genuss zurückdenken.",
             "text_style": "body"
           }
         },
         "buttons_V8g6DY": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Zum Balsamikö",
+            "button_label_1": "",
             "button_link_1": "shopify:\/\/products\/balsamiko-essig",
             "button_style_secondary_1": false,
             "button_label_2": "",

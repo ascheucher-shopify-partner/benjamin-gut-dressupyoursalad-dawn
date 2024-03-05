@@ -1,26 +1,68 @@
 {
   "sections": {
+    "rich_text_GHDx4F": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PFEbTg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Der Salat schmeckt langweilig?",
+            "heading_size": "h1"
+          }
+        },
+        "text_wjqgpc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Gäste stehen vor der Türe, aber der Salat schmeckt mittelmäßig?<\/p>"
+          }
+        },
+        "button_rgdNyL": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PFEbTg",
+        "text_wjqgpc",
+        "button_rgdNyL"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "BALSAM I.K.Ö. 2&nbsp;Minuten, 2&nbsp;Millionen",
+            "heading": "BALSAM I.K.Ö.  - bekannt durch 2 Minuten, 2&nbsp;Millionen - gibt deinem Essen den letzten Schliff!",
             "heading_size": "h0"
           }
         },
         "text_DCXFqk": {
           "type": "text",
           "settings": {
-            "text": "Erlebe den Geschmack unseres genussvollen Balsamicos in Kombination mit der unvergleichlichen Qualität Österreichischer Zutaten.",
+            "text": "Deinen Gästen wird der Salat auf der Zunge zergehen und du darfst als Gastgeber glänzen!",
             "text_style": "subtitle"
           }
         },
         "buttons_9NA9Qg": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Alles Balsamikö",
+            "button_label_1": "Ich will mit BALSAMIKÖ glänzen!",
             "button_link_1": "shopify:\/\/products\/balsamiko-essig",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -125,21 +167,21 @@
         "heading_iiPbJG": {
           "type": "heading",
           "settings": {
-            "heading": "Bei 2 Minuten, 2 Millionen",
-            "heading_size": "h1"
+            "heading": "BALSAMIKÖ bei 2&nbsp;Minuten, 2&nbsp;Millionen präsentiert.",
+            "heading_size": "h2"
           }
         },
         "text_xw7Ybx": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Auch unsere Dressings und Essigzubereitungen lässt ihre Gäste ihre Speisen genießen und Sie zufrieden an den Genuss zurückdenken.",
             "text_style": "body"
           }
         },
         "buttons_V8g6DY": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Zum Balsamikö",
+            "button_label_1": "",
             "button_link_1": "shopify:\/\/products\/balsamiko-essig",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -175,7 +217,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "featured-homepage-dressings-u-essigzubereitung",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
@@ -197,6 +239,7 @@
     }
   },
   "order": [
+    "rich_text_GHDx4F",
     "image_banner",
     "featured_product_VtjEKF",
     "image_banner_yW7bbY",

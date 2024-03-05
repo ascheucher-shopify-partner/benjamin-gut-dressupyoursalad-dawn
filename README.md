@@ -322,20 +322,22 @@ Die hier im „Kleinen Rezeptbuch“ angeführten Rezepte sind für 2 Personen
 
 ### FAQ
 
-Wie lange ist der Balsamikö nach dem öffnen haltbar?
-Du kannst unseren Balsamikö nach den öffnen ca 3 Monate verwenden.
-
-Kann ich den Balsamikö auch für Salatdressings verwenden?
-Ja, unser Balsamikö passt hervorragend zu allen Salaten.
-
 Wird der Balsamikö in Österreich hergestellt?
 Ja, unser Balsamikö wird ausschließlich in Österreich hergestellt.
 
 Kann ich den Balsamikö ganz normal wie einen Aceto Balsamico verwenden?
 Ja, unser Balsamico ist eine österreichische Alternative zu jeden Aceto Balsamico Essig
 
-Wie lange ist Balsamikö nach dem öffnen haltbar?
+Kann ich den Balsamikö auch für Salatdressings verwenden?
+Ja, unser Balsamikö passt hervorragend zu allen Salaten.
+
+Wie lange ist der Balsamikö nach dem öffnen haltbar?
+Du kannst unseren Balsamikö nach den öffnen ca 3 Monate verwenden.
+
+Wie lange ist der Balsamikö haltbar?
 Ab Lieferung haben wir 12 Monate Mhd.
+
+TODO Fragen und Antworten zu den anderen Produkten
 
 ### Texte
 
@@ -514,3 +516,136 @@ Social accounts:
 [ ] Pinterest
 [ ] Tumblr
 [ ] Vimeo
+
+## Weitere Infos
+
+Sind im [Wiki](https://wiki-2.hill.eremite.cc/e/en/saasquadrat/balsamikoe) zu finden...
+
+## AI based copy writing
+
+### 1. try with Gemini
+
+Prompt:
+
+Du bist Texter für einen Online-Shop, der Balsamico-Essig verkauft.
+Der Balsamico-Essig trägt den Namen BALSAMIKÖ, was für „Balsam Ist Komplett Österreichisch“ steht
+Es wird ausschließlich in Österreich produziert.
+Erstellen Sie drei einzigartige Versionen von Anzeigentexten mit einem auf Storytelling basierenden Ansatz zum Verkauf des BALSAMIKÖ und nutzen Sie dabei die neuesten Forschungsergebnisse zu Anzeigen mit der besten Leistung für den Verkauf von Lebensmittelzutaten an Feinschmecker.
+Klingt einfühlsam und inspirierend
+
+#### Anzeigentext 1: **Die Reise des Geschmacks**
+
+**Ein Sonnenstrahl, eingefangen in einer Flasche.** BALSAMIKÖ ist mehr als nur ein Essig. Es ist die Essenz Österreichs, in flüssiger Form veredelt. Von der sanften Sonne gereifte Trauben, handverlesen und mit Liebe verarbeitet, entfalten in unserem Balsamico-Essig ein unvergleichliches Geschmackserlebnis.
+
+**Mit jedem Tropfen erwacht die österreichische Seele.** Spüren Sie die Wärme des Südens, die Leichtigkeit des Frühlings und die Kraft des Herbstes. BALSAMIKÖ - ein Gedicht für die Sinne, das Ihre Küche in ein Gourmetparadies verwandelt.
+
+**Tauchen Sie ein in die Welt des BALSAMIKÖ** und entdecken Sie die Vielfalt österreichischer Genusskultur.
+
+**Jetzt BALSAMIKÖ entdecken und den Geschmack Österreichs erleben: URL BALSAMIKÖ**
+
+#### Anzeigentext 2: **Eine Hommage an Österreich**
+
+**BALSAMIKÖ - Ein Balsam für die Seele.** In jedem Tropfen steckt die Liebe zum Detail und die Hingabe österreichischer Meister. 
+
+**Aus den besten Trauben des Landes** entsteht ein Essig, der seinesgleichen sucht. Tradition trifft auf Innovation, gepaart mit dem unbedingten Willen, das Beste aus Österreich zu bieten.
+
+**BALSAMIKÖ ist mehr als nur ein Essig.** Es ist ein Stück österreichischer Lebensart. Ein Ausdruck von Heimatverbundenheit und dem Streben nach Perfektion.
+
+**Verleihen Sie Ihren Gerichten das gewisse Etwas** mit BALSAMIKÖ und zelebrieren Sie den Geschmack Österreichs.
+
+**BALSAMIKÖ - Österreichs flüssiges Gold. Jetzt entdecken!: URL BALSAMIKÖ**
+
+#### Anzeigentext 3: **Das Geheimnis der Meisterköche**
+
+**Wissen Sie, was Spitzenköche von Hobbyköchen unterscheidet?** BALSAMIKÖ! 
+
+Unser Balsamico-Essig ist das **geheime Ass im Ärmel** der besten Küchenchefs des Landes. Ein unverzichtbares Werkzeug, um Gerichte in meisterhafte Kreationen zu verwandeln.
+
+**Entfesseln Sie auch Sie Ihr kulinarisches Potenzial** mit BALSAMIKÖ. Lassen Sie sich von der Kraft der österreichischen Natur inspirieren und zaubern Sie Gerichte, die Ihre Gäste begeistern werden.
+
+**BALSAMIKÖ - der Schlüssel zum Erfolg in der Küche.**
+
+**Holen Sie sich jetzt den Geheimtipp der Profis! BALSAMIKÖ entdecken: URL BALSAMIKÖ**
+
+**Hinweis:** 
+
+* Alle drei Anzeigentexte basieren auf einem **Storytelling-Ansatz**, der die emotionale Bindung des Kunden an das Produkt fördert.
+* Sie sprechen die **Sinne des Lesers** an und wecken die Sehnsucht nach dem Geschmack Österreichs.
+* Die Texte sind **inspirierend** und laden dazu ein, BALSAMIKÖ selbst auszuprobieren.
+* Sie enthalten einen **Call-to-Action**, der den Kunden zum Kauf des Produkts animiert.
+
+**Zusätzliche Tipps:**
+
+* Verwenden Sie **hochwertige Bilder** und Videos, um die Attraktivität des Produkts zu steigern.
+* Bieten Sie **Rezepte und Inspirationen** an, wie BALSAMIKÖ in der Küche verwendet werden kann.
+* Nutzen Sie **Testimonials von Feinschmeckern und Spitzenköchen**, um die Glaubwürdigkeit des Produkts zu erhöhen.
+
+**Mit diesen Tipps und den aussagekräftigen Anzeigentexten steht dem Verkaufserfolg von BALSAMIKÖ nichts mehr im Weg!**
+
+### 2. try with Gemini
+
+Prompt:
+
+Du bist Texter für einen Online-Shop, der Balsamico-Essig verkauft.
+Der Balsamico-Essig trägt den Namen BALSAMIKÖ, was für „Balsam Ist Komplett Österreichisch“ steht
+Es wird ausschließlich in Österreich produziert.
+Erstellen Sie drei einzigartige Versionen von Anzeigentexten mit einem auf Storytelling basierenden Ansatz zum Verkauf des BALSAMIKÖ und nutzen Sie dabei die neuesten Forschungsergebnisse zu Anzeigen mit der besten Leistung für den Verkauf von Lebensmittelzutaten an Feinschmecker.
+Klingt einfühlsam und inspirierend.
+Formatiere deine Antwort, dass sie in kurze Blöcke passt, die über Bilder gelegt werden können.
+
+#### Version 1:
+
+**Bild:** Sonnenverwöhnte Weinreben in Österreich, im Hintergrund ein Bauernhof.
+
+**Text:**
+
+**BALSAMIKÖ:** Ein Hauch Österreich in jeder Küche.
+
+**Aus sonnengereiften Trauben, mit Liebe in Österreich hergestellt.**
+
+**Entdecke die Kraft der Tradition und den unvergleichlichen Geschmack.**
+
+**Perfekt für Salate, Desserts und als edles Geschenk.**
+
+**Jetzt entdecken!**
+
+#### Version 2:
+
+**Bild:** Hände, die eine Flasche BALSAMIKÖ halten, daneben ein Teller mit köstlichem Essen.
+
+**Text:**
+
+**Mehr als nur Essig:** BALSAMIKÖ ist ein Geschmackserlebnis.
+
+**Verleihe deinen Gerichten das gewisse Etwas mit österreichischer Raffinesse.**
+
+**Hochwertige Zutaten, nachhaltig produziert.**
+
+**BALSAMIKÖ - Die perfekte Wahl für bewusste Genießer.**
+
+**Probiere jetzt den Unterschied!**
+
+#### Version 3:
+
+**Bild:** Ein Tisch mit Familie und Freunden, die gemeinsam ein leckeres Essen genießen.
+
+**Text:**
+
+**BALSAMIKÖ:** Das Geheimnis für unvergessliche Momente.
+
+**Schaffe Genuss und Erinnerungen mit österreichischem Flair.**
+
+**Teile deine Liebe zum Essen mit den Menschen, die dir wichtig sind.**
+
+**BALSAMIKÖ - Ein Stück Österreich für deine Küche.**
+
+**Bestelle jetzt und zaubere Glücksmomente!**
+
+**Zusätzliche Tipps:**
+
+* Verwenden Sie emotionale Sprache und Bilder, um die Sinne anzusprechen.
+* Stellen Sie den Bezug zu den Werten der Zielgruppe her (z.B. Tradition, Nachhaltigkeit, Genuss).
+* Nutzen Sie einen Call-to-Action, um zum Kauf zu animieren.
+* Achten Sie auf ein hochwertiges Design und ansprechende Bilder.
+
+**Hinweis:** Die obigen Beispiele sind nur Vorschläge und können an die spezifischen Bedürfnisse Ihres Online-Shops angepasst werden.

@@ -85,11 +85,69 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "rich_text_VyjJVr": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Nc68E9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wird Benjamin einen der Investoren überzeugen können und mit einem Deal aus der Sendung gehen?<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Nc68E9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "newsletter_PRLDWN": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_ezfEiQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wir halten dich auf dem Laufenden",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_NLbdg3": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Lass uns deine E-Mail Adresse hier und wir berichten dir, ob Benjamin die Investoren überzeugen konnte.<\/p>"
+          }
+        },
+        "email_form_pkqFyX": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_ezfEiQ",
+        "paragraph_NLbdg3",
+        "email_form_pkqFyX"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "rich_text_hQw9cb",
-    "image_banner_B6atW9"
+    "image_banner_B6atW9",
+    "rich_text_VyjJVr",
+    "newsletter_PRLDWN"
   ]
 }

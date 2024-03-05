@@ -46,20 +46,11 @@
             "text": "<p>Inhaber und Gründer der Firma Benjamin Gut Gmbh<\/p><p>Mit 20 Jahren gründet der heute 32-jährige Benjamin Brameshuber das Feinkostgeschäft Naschmarkt am Graben im Herzen der Altstadt von Gmunden.<\/p><p>Seither ist er auf der Suche nach kulinarische Besonderheiten aus der heimischen Region, sowie aus Frankreich, Spanien und Italien.<\/p><p>Diese kulinarischen Reisen inspirieren ihn zu neuen Projekten: Pflückreife Früchte werden in schonendem Verfahren zu exquisiten Fruchtessigen verarbeitet.<\/p><p>Die Benjamin Gut Essige eignen sich hervorragend zum Anrichten von Salaten, zum Verfeinern von Saucen und zum Aufpeppen verschiedener Gerichte.<\/p><p>Die Benjamin Gut Essige sind außerdem als erfrischendes Sommergetränk zu genießen!<\/p><p>Ein Allround-Produkt und must-have in jeder Küche!<\/p>",
             "text_style": "body"
           }
-        },
-        "button_fxz7JM": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_bV7VLF",
-        "text_W9EAYr",
-        "button_fxz7JM"
+        "text_W9EAYr"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Benjamin_blickt_in_die_Ferne.jpg",

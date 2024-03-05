@@ -36,6 +36,67 @@
         "show_text_below": true
       }
     },
+    "collapsible_content_mGf6xL": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_e7x8Kt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wird der Balsamikö in Österreich hergestellt?",
+            "icon": "check_mark",
+            "row_content": "<p>Ja, unser Balsamikö und all seine Zutaten wachsen in Österreich. Sie werden ausschließlich in Österreich hergestellt und verarbeitet.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_yBy7Jt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_JMke39": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_t6ePCz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_e7x8Kt",
+        "collapsible_row_yBy7Jt",
+        "collapsible_row_JMke39",
+        "collapsible_row_t6ePCz"
+      ],
+      "settings": {
+        "caption": "Oft gestellte Fragen",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_WaqctG": {
       "type": "rich-text",
       "blocks": {
@@ -250,6 +311,7 @@
   "order": [
     "main",
     "image_banner_FKFGwy",
+    "collapsible_content_mGf6xL",
     "rich_text_WaqctG",
     "rich_text_eV9Q6r",
     "rich_text_Fm4kke",

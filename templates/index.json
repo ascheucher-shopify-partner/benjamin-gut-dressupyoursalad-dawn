@@ -76,7 +76,7 @@
             "box_align": "top-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 30,
             "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }

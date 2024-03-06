@@ -150,6 +150,7 @@
         "text_DCXFqk",
         "buttons_9NA9Qg"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Benjamin_mit_BALSAMIKO_Flasche_am_Schneidbrett.jpg",
         "image_overlay_opacity": 40,
@@ -162,6 +163,82 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Unsere Pakete",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "featured-homepage",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_yW7bbY": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_iiPbJG": {
+          "type": "heading",
+          "settings": {
+            "heading": "BALSAMIKÖ - bei 2 Minuten, 2 Millionen",
+            "heading_size": "h2"
+          }
+        },
+        "text_xw7Ybx": {
+          "type": "text",
+          "settings": {
+            "text": "Auch unsere Dressings und Essigzubereitungen lässt ihre Gäste ihre Speisen genießen und Sie zufrieden an den Genuss zurück denken.",
+            "text_style": "body"
+          }
+        },
+        "buttons_V8g6DY": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/products\/balsamiko-essig",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iiPbJG",
+        "text_xw7Ybx",
+        "buttons_V8g6DY"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PHOTO-2023-05-06-14-25-09.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "featured_product_VtjEKF": {
@@ -234,90 +311,14 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_banner_yW7bbY": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_iiPbJG": {
-          "type": "heading",
-          "settings": {
-            "heading": "BALSAMIKÖ bei 2&nbsp;Minuten, 2&nbsp;Millionen präsentiert.",
-            "heading_size": "h2"
-          }
-        },
-        "text_xw7Ybx": {
-          "type": "text",
-          "settings": {
-            "text": "Auch unsere Dressings und Essigzubereitungen lässt ihre Gäste ihre Speisen genießen und Sie zufrieden an den Genuss zurück denken.",
-            "text_style": "body"
-          }
-        },
-        "buttons_V8g6DY": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "shopify:\/\/products\/balsamiko-essig",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_iiPbJG",
-        "text_xw7Ybx",
-        "buttons_V8g6DY"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/PHOTO-2023-05-06-14-25-09.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Pura Vida",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "featured-homepage",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "rich_text_GHDx4F",
     "slideshow_eg84H4",
     "image_banner",
-    "featured_product_VtjEKF",
+    "featured_collection",
     "image_banner_yW7bbY",
-    "featured_collection"
+    "featured_product_VtjEKF"
   ]
 }

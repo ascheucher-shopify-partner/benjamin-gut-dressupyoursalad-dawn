@@ -59,7 +59,7 @@
             "show_text_box": false,
             "text_alignment": "left",
             "image_overlay_opacity": 30,
-            "color_scheme": "",
+            "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
         },

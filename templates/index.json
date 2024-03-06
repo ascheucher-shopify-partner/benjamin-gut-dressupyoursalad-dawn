@@ -73,7 +73,7 @@
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "bottom-center",
+            "box_align": "top-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,

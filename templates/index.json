@@ -291,7 +291,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "featured-homepage-dressings-u-essigzubereitung",
+        "collection": "featured-homepage",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,

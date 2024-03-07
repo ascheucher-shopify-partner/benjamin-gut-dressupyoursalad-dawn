@@ -266,7 +266,7 @@ Die hier angeführten Rezepte sind für 2 Personen. 2 Portionen Blattsalat ent
 
 ## Vorhandenes Rohmaterial
 
-### Benjamin Brameshuber
+### [X] Benjamin Brameshuber
 
 Inhaber und Gründer der Firma Benjamin Gut Gmbh
 

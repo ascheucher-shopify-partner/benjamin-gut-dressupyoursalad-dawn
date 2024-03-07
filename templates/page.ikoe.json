@@ -14,8 +14,8 @@
         "heading_9hJrQj": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>BAL SAM I.K.Ö. <\/strong>Das flüssige Gold Österreichs.",
-            "heading_size": "h1"
+            "heading": "<strong>BAL SAM I.K.Ö.<\/strong> Ist Komplett Österreichisch.",
+            "heading_size": "h0"
           }
         },
         "text_KDwaw3": {
@@ -51,7 +51,7 @@
           "type": "column",
           "settings": {
             "title": "Ist Komplett Österreichisch",
-            "text": "<p>Ein Genuss für alle Sinne. BALSAMIKÖ überzeugt mit seinem einzigartigen Geschmack und seiner unvergleichlichen Aromenvielfalt.<\/p>",
+            "text": "<p>BAL SAM I.K.Ö. erzeugt aus ausschließlich österreichischen Zutaten<\/p>",
             "link_label": "",
             "link": ""
           }

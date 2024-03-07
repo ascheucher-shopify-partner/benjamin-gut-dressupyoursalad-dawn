@@ -137,7 +137,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Ich will mit BALSAMIKÖ glänzen!",
-            "button_link_1": "shopify:\/\/products\/balsamiko-essig",
+            "button_link_1": "shopify:\/\/products\/balsamikoe-essig",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -214,7 +214,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "",
-            "button_link_1": "shopify:\/\/products\/balsamiko-essig",
+            "button_link_1": "shopify:\/\/products\/balsamikoe-essig",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -298,7 +298,7 @@
         "share_gLixAx"
       ],
       "settings": {
-        "product": "balsamiko-essig",
+        "product": "balsamikoe-essig",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "medium",

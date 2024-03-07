@@ -89,7 +89,7 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
-        "button_link": "shopify:\/\/products\/balsamiko-essig",
+        "button_link": "shopify:\/\/products\/balsamikoe-essig",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -154,7 +154,7 @@
         "share_qeeEhD"
       ],
       "settings": {
-        "product": "balsamiko-essig",
+        "product": "balsamikoe-essig",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "medium",

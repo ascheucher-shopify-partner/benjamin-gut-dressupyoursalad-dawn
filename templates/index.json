@@ -316,11 +316,19 @@
             "text": "Genuss, vorgestellt bei <em>2 Minuten, 2 Millionen<\/em>",
             "text_style": "body"
           }
+        },
+        "text_KcVz4J": {
+          "type": "text",
+          "settings": {
+            "text": "100% Vegan 100% Österreichisch",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "heading_Gdh4xJ",
-        "text_9fUgVP"
+        "text_9fUgVP",
+        "text_KcVz4J"
       ],
       "settings": {
         "image_overlay_opacity": 0,

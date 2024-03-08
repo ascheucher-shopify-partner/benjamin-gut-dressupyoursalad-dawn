@@ -343,6 +343,29 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "rich_text_TTJea8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_U6Pphz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<a href=\"\/pages\/balsamiko-ist-komplett-osterreichisch#shopify-section-template--15883984142396__image_banner_LmUjC7\" title=\"\/pages\/balsamiko-ist-komplett-osterreichisch#shopify-section-template--15883984142396__image_banner_LmUjC7\">Wie entstand eigentlich BALSAMIKÖ?<\/a>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_U6Pphz"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -352,6 +375,7 @@
     "featured_collection",
     "image_banner_yW7bbY",
     "featured_product_VtjEKF",
-    "image_banner_BbMaag"
+    "image_banner_BbMaag",
+    "rich_text_TTJea8"
   ]
 }

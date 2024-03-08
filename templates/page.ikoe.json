@@ -197,6 +197,50 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "image_banner_LmUjC7": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_HpwtNn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wie entstand BALSAMIKÖ",
+            "heading_size": "h1"
+          }
+        },
+        "text_mTyrAE": {
+          "type": "text",
+          "settings": {
+            "text": "Wir sind ein internationales Netzwerk, bestehend aus 8 Kochfreunden, in London, Wien, Berlin, Gmunden, Rom und quer durch ganz Österreich.",
+            "text_style": "body"
+          }
+        },
+        "text_ydmLm4": {
+          "type": "text",
+          "settings": {
+            "text": "Bei einem unserer regelmäßigen Treffen, fragten wir uns, warum Essig eigentlich immer so sauer sein musste! Da geht doch der ganze Geschmack unter.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HpwtNn",
+        "text_mTyrAE",
+        "text_ydmLm4"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Salat_Kleckse.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -204,6 +248,7 @@
     "image_banner_QMdzwW",
     "multicolumn_dyPacM",
     "featured_product_Vy4NKi",
-    "rich_text_d7CPjc"
+    "rich_text_d7CPjc",
+    "image_banner_LmUjC7"
   ]
 }

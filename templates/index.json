@@ -132,19 +132,11 @@
             "text": "Deinen Gästen wird der Salat auf der Zunge zergehen und du glänzt als Gastgeber.",
             "text_style": "subtitle"
           }
-        },
-        "text_9yCceJ": {
-          "type": "text",
-          "settings": {
-            "text": "100% Vegan 100% Österreichisch",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
         "heading",
-        "text_DCXFqk",
-        "text_9yCceJ"
+        "text_DCXFqk"
       ],
       "disabled": true,
       "settings": {

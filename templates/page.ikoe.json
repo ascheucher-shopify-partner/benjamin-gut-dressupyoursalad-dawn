@@ -235,6 +235,13 @@
             "text": "Gesagt getan!",
             "text_style": "body"
           }
+        },
+        "text_Nwray6": {
+          "type": "text",
+          "settings": {
+            "text": "So führte ein freundschaftliches Treffen unter Gleichgesinnten, zu einer Innovation am Tisch.",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -242,7 +249,8 @@
         "text_mTyrAE",
         "text_ydmLm4",
         "text_DG3pad",
-        "text_W8yRLR"
+        "text_W8yRLR",
+        "text_Nwray6"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Salat_Kleckse.jpg",

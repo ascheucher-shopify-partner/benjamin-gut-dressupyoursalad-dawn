@@ -211,7 +211,7 @@
         "text_mTyrAE": {
           "type": "text",
           "settings": {
-            "text": "Wir sind ein internationales Netzwerk, bestehend aus 8 Kochfreunden, in London, Wien, Berlin, Gmunden, Rom und quer durch ganz Österreich.",
+            "text": "Wir sind ein internationales Netzwerk, bestehend aus 8 Köchen, in London, Wien, Berlin, Gmunden, Rom und quer durch ganz Österreich.",
             "text_style": "body"
           }
         },
@@ -221,12 +221,20 @@
             "text": "Bei einem unserer regelmäßigen Treffen, fragten wir uns, warum Essig eigentlich immer so sauer sein musste! Da geht doch der ganze Geschmack unter.",
             "text_style": "body"
           }
+        },
+        "text_DG3pad": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "heading_HpwtNn",
         "text_mTyrAE",
-        "text_ydmLm4"
+        "text_ydmLm4",
+        "text_DG3pad"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Salat_Kleckse.jpg",

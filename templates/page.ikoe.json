@@ -228,13 +228,21 @@
             "text": "Warum also nicht einen Essig kreieren, der nur 3% hat, dafür seinen tollen Geschmack entfalten kann? Und warum nicht auch nachhaltig mit lokalen Österreichischen Zutaten?",
             "text_style": "body"
           }
+        },
+        "text_W8yRLR": {
+          "type": "text",
+          "settings": {
+            "text": "Gesagt getan!",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "heading_HpwtNn",
         "text_mTyrAE",
         "text_ydmLm4",
-        "text_DG3pad"
+        "text_DG3pad",
+        "text_W8yRLR"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Salat_Kleckse.jpg",

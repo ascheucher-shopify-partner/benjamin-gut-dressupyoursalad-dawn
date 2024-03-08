@@ -30,6 +30,8 @@ Erreicht soll das werden auf den 3 Hauptseiten
   
 ### Über Benjamin Gut
 
+Inhaber und Gründer der Firma Benjamin Gut GmbhMit 20 Jahren gründet der heute 32-jährige Benjamin Brameshuber das Feinkostgeschäft Naschmarkt am Graben im Herzen der Altstadt von Gmunden.Seither ist er auf der Suche nach kulinarische Besonderheiten aus der heimischen Region, sowie aus Frankreich, Spanien und Italien.Diese kulinarischen Reisen inspirieren ihn zu neuen Projekten: Pflückreife Früchte werden in schonendem Verfahren zu exquisiten Fruchtessigen verarbeitet.Die Benjamin Gut Essige eignen sich hervorragend zum Anrichten von Salaten, zum Verfeinern von Saucen und zum Aufpeppen verschiedener Gerichte.Die Benjamin Gut Essige sind außerdem als erfrischendes Sommergetränk zu genießen!Ein Allround-Produkt und must-have in jeder Küche!
+
 ### Balsamikö bei 2M2M
 
 * was ist Balsamikö

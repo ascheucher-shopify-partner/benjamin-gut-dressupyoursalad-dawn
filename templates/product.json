@@ -50,18 +50,6 @@
             "share_label": "Share"
           }
         },
-        "icon_with_text_ciNjWf": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "plant",
-            "heading_1": "Vegan",
-            "icon_2": "none",
-            "heading_2": "",
-            "icon_3": "none",
-            "heading_3": ""
-          }
-        },
         "complementary_aCFfxK": {
           "type": "complementary",
           "settings": {
@@ -85,7 +73,6 @@
         "buy_buttons",
         "description",
         "share",
-        "icon_with_text_ciNjWf",
         "complementary_aCFfxK"
       ],
       "settings": {

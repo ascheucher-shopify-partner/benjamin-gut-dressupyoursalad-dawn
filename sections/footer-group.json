@@ -5,23 +5,23 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "brand_information_8kFEUf": {
-          "type": "brand_information",
-          "settings": {
-            "show_social": true
-          }
-        },
         "link_list_Uh4NRc": {
           "type": "link_list",
           "settings": {
             "heading": "",
             "menu": "footer"
           }
+        },
+        "brand_information_8kFEUf": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
         }
       },
       "block_order": [
-        "brand_information_8kFEUf",
-        "link_list_Uh4NRc"
+        "link_list_Uh4NRc",
+        "brand_information_8kFEUf"
       ],
       "settings": {
         "color_scheme": "scheme-1",

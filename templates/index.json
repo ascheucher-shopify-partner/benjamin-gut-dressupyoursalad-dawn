@@ -133,22 +133,18 @@
             "text_style": "subtitle"
           }
         },
-        "buttons_9NA9Qg": {
-          "type": "buttons",
+        "text_9yCceJ": {
+          "type": "text",
           "settings": {
-            "button_label_1": "Ich will mit BALSAMIKÖ glänzen!",
-            "button_link_1": "shopify:\/\/products\/balsamikoe-essig",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "100% Vegan 100% Österreichisch",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
         "heading",
         "text_DCXFqk",
-        "buttons_9NA9Qg"
+        "text_9yCceJ"
       ],
       "disabled": true,
       "settings": {

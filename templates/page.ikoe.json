@@ -14,14 +14,14 @@
         "heading_9hJrQj": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>BAL SAM I.K.Ö. <\/strong>Das flüssige Gold Österreichs.",
-            "heading_size": "h1"
+            "heading": "<strong>BAL SAM I.K.Ö.<\/strong> Ist Komplett Österreichisch.",
+            "heading_size": "h0"
           }
         },
         "text_KDwaw3": {
           "type": "text",
           "settings": {
-            "text": "<strong>Mehr als nur Essig.<\/strong> Ein komplexes Geschmackserlebnis, das aus heimischen Trauben entsteht.",
+            "text": "",
             "text_style": "body"
           }
         }
@@ -51,7 +51,7 @@
           "type": "column",
           "settings": {
             "title": "Ist Komplett Österreichisch",
-            "text": "<p>Ein Genuss für alle Sinne. BALSAMIKÖ überzeugt mit seinem einzigartigen Geschmack und seiner unvergleichlichen Aromenvielfalt.<\/p>",
+            "text": "<p>BAL SAM I.K.Ö. erzeugt aus ausschließlich österreichischen Zutaten<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -69,7 +69,7 @@
           "type": "column",
           "settings": {
             "title": "Ein Hauch von Österreich in jedem Gericht.",
-            "text": "<p>Verleihe deinen Salaten, Fleischgerichten und Desserts das gewisse Etwas.<\/p>",
+            "text": "<p>Verleihe deinen Salaten, Dressings und Desserts das gewisse Etwas.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -89,7 +89,7 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
-        "button_link": "shopify:\/\/products\/balsamiko-essig",
+        "button_link": "shopify:\/\/products\/balsamikoe-essig",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -154,7 +154,7 @@
         "share_qeeEhD"
       ],
       "settings": {
-        "product": "balsamiko-essig",
+        "product": "balsamikoe-essig",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "medium",
@@ -167,12 +167,43 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_d7CPjc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EBzwGW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Balsamikö - einfach österreichisch",
+            "heading_size": "h1"
+          }
+        },
+        "text_z9mM6q": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Mehr als nur Essig.<\/strong> Ein komplexes Geschmackserlebnis, das aus heimischen Trauben und Birnen entsteht.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EBzwGW",
+        "text_z9mM6q"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "image_banner_QMdzwW",
     "multicolumn_dyPacM",
-    "featured_product_Vy4NKi"
+    "featured_product_Vy4NKi",
+    "rich_text_d7CPjc"
   ]
 }

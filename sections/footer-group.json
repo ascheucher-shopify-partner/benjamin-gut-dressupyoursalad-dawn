@@ -10,10 +10,18 @@
           "settings": {
             "show_social": true
           }
+        },
+        "link_list_Uh4NRc": {
+          "type": "link_list",
+          "settings": {
+            "heading": "",
+            "menu": "footer"
+          }
         }
       },
       "block_order": [
-        "brand_information_8kFEUf"
+        "brand_information_8kFEUf",
+        "link_list_Uh4NRc"
       ],
       "settings": {
         "color_scheme": "scheme-1",

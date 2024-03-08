@@ -2,44 +2,76 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
-    }
-  },
-  "rich_text_LiRitV": {
-    "type": "rich-text",
-    "blocks": {
-      "heading_wzpH4G": {
-        "type": "heading",
-        "settings": {
-          "heading": "Benjamin Brameshuber",
-          "heading_size": "h1"
+    },
+    "rich_text_DHWafX": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9TNVTJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Schon immer habe ich mich für hochwertige Lebensmittel begeistern können. Daher habe ich mich auch entschieden Koch zu werden.\"<\/em><\/p>"
+          }
         }
       },
-      "text_K9LfHM": {
-        "type": "text",
-        "settings": {
-          "text": "<p><em>\"Schon immer habe ich mich für hochwertige Lebensmittel begeistern können. Daher habe ich mich auch entschieden Koch zu werden.\"<\/em><\/p>"
-        }
+      "block_order": [
+        "text_9TNVTJ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
-    "block_order": [
-      "heading_wzpH4G",
-      "text_K9LfHM"
-    ],
-    "settings": {
-      "desktop_content_position": "center",
-      "content_alignment": "center",
-      "color_scheme": "",
-      "full_width": true,
-      "padding_top": 40,
-      "padding_bottom": 52
+    "image_with_text_wedcrE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bV7VLF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Benjamin Brameshuber",
+            "heading_size": "h1"
+          }
+        },
+        "text_W9EAYr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Inhaber und Gründer der Firma Benjamin Gut Gmbh<\/p><p>Mit 20 Jahren gründet der heute 32-jährige Benjamin Brameshuber das Feinkostgeschäft Naschmarkt am Graben im Herzen der Altstadt von Gmunden.<\/p><p>Seither ist er auf der Suche nach kulinarische Besonderheiten aus der heimischen Region, sowie aus Frankreich, Spanien und Italien.<\/p><p>Diese kulinarischen Reisen inspirieren ihn zu neuen Projekten: Pflückreife Früchte werden in schonendem Verfahren zu exquisiten Fruchtessigen verarbeitet.<\/p><p>Die Benjamin Gut Essige eignen sich hervorragend zum Anrichten von Salaten, zum Verfeinern von Saucen und zum Aufpeppen verschiedener Gerichte.<\/p><p>Die Benjamin Gut Essige sind außerdem als erfrischendes Sommergetränk zu genießen!<\/p><p>Ein Allround-Produkt und must-have in jeder Küche!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bV7VLF",
+        "text_W9EAYr"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Benjamin_blickt_in_die_Ferne.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "rich_text_LiRitV"
+    "rich_text_DHWafX",
+    "image_with_text_wedcrE"
   ]
 }

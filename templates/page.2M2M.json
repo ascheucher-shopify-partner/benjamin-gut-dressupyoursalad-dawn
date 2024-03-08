@@ -8,97 +8,20 @@
         "padding_bottom": 28
       }
     },
-    "rich_text_LiRitV": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_wzpH4G": {
-          "type": "heading",
-          "settings": {
-            "heading": "Benjamin Brameshuber",
-            "heading_size": "h1"
-          }
-        },
-        "text_K9LfHM": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em>\"Schon immer habe ich mich für hochwertige Lebensmittel begeistern können. Daher habe ich mich auch entschieden Koch zu werden.\"<\/em><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_wzpH4G",
-        "text_K9LfHM"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "image_with_text_BLtnkT": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_JnC78F": {
-          "type": "heading",
-          "settings": {
-            "heading": "Benjamin Brameshuber",
-            "heading_size": "h1"
-          }
-        },
-        "text_HcTihU": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Produktentwickler und kreativer Kopf der Benjamin Gut GmbH.<br\/>Als gelernter Koch bin ich schon recht früh in die Welt hochwertiger Lebensmittel und außergewöhnlicher Zutaten eingetaucht.<br\/><\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_cagWkN": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_JnC78F",
-        "text_HcTihU",
-        "button_cagWkN"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/DSC0369_1.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "rich_text_hQw9cb": {
       "type": "rich-text",
       "blocks": {
         "heading_HKqPjE": {
           "type": "heading",
           "settings": {
-            "heading": "Auftritt bei 2 Minuten, 2 Millionen",
+            "heading": "BALSAMIKÖ bei 2 Minuten, 2 Millionen",
             "heading_size": "h1"
           }
         },
         "text_9wVpjh": {
           "type": "text",
           "settings": {
-            "text": "<p>Der Auftritt bei 2 Minuten, 2 Millionen ist eine riesige Chance für Benjamin und Balsamikö!<\/p><p>Wird Benjamin einen Deal mit einem der Investoren machen?<\/p>"
+            "text": "<p>Der Auftritt bei 2 Minuten, 2 Millionen ist eine riesige Chance für Benjamin Gut und BALSAMIKÖ!<\/p><p>Wird Benjamin einen der Investoren überzeugen können und mit einem Deal aus der Sendung gehen?<\/p>"
           }
         },
         "button_8GkBNb": {
@@ -118,6 +41,7 @@
         "text_9wVpjh",
         "button_8GkBNb"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -127,27 +51,104 @@
         "padding_bottom": 52
       }
     },
-    "video_r6KRJX": {
-      "type": "video",
+    "image_banner_B6atW9": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UANQ9r": {
+          "type": "heading",
+          "settings": {
+            "heading": "BALSAMIKÖ bei 2 Minuten, 2 Millionen",
+            "heading_size": "h1"
+          }
+        },
+        "text_9UDb9z": {
+          "type": "text",
+          "settings": {
+            "text": "Der Auftritt bei 2 Minuten, 2 Millionen ist eine riesige Chance für Benjamin Gut und BALSAMIKÖ!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UANQ9r",
+        "text_9UDb9z"
+      ],
       "settings": {
-        "heading": "Bekommt Benjamin den Deal über € 50.000? - TODO mit video von der Präsentation ersetzen.",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/Bewerbung 2M2M - wide.mov",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
+        "image": "shopify:\/\/shop_images\/Unicorn_Header.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_VyjJVr": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Nc68E9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wird Benjamin einen der Investoren überzeugen können und mit einem Deal aus der Sendung gehen?<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Nc68E9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "newsletter_PRLDWN": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_ezfEiQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wir halten dich auf dem Laufenden",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_NLbdg3": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Lass uns deine E-Mail Adresse hier und wir berichten dir, ob Benjamin die Investoren überzeugen konnte.<\/p>"
+          }
+        },
+        "email_form_pkqFyX": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_ezfEiQ",
+        "paragraph_NLbdg3",
+        "email_form_pkqFyX"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "rich_text_LiRitV",
-    "image_with_text_BLtnkT",
     "rich_text_hQw9cb",
-    "video_r6KRJX"
+    "image_banner_B6atW9",
+    "rich_text_VyjJVr",
+    "newsletter_PRLDWN"
   ]
 }

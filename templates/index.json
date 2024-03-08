@@ -42,13 +42,87 @@
         "padding_bottom": 52
       }
     },
+    "slideshow_eg84H4": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_en4MHE": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Benjamin_mit_BALSAMIKO_Flasche_am_Schneidbrett_fe24139d-5ab7-4492-bf26-deb3bddb1667.jpg",
+            "heading": "BALSAMIKÖ - gibt deinem Essen den exquisiten Touch",
+            "heading_size": "h2",
+            "subheading": "Deinen Gästen wird der Salat auf der Zunge zergehen und du glänzt als Gastgeber.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_mUyfqB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC0263_2.jpg",
+            "heading": "BALSAM I.K.Ö. - weil wir in Österreich ausgezeichnete Zutaten haben!",
+            "heading_size": "h2",
+            "subheading": "Warum alles aus der Fremde importieren, wenn die besten Zutaten vor unserer Haustüre wachsen?",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_DEpRMA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC0173_1.jpg",
+            "heading": "BALSAM I.K.Ö. - ist komplett Österreichisch",
+            "heading_size": "h2",
+            "subheading": "Weil die Sonne auf österreichischen Boden die besten Zutaten reifen lässt!",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_en4MHE",
+        "slide_mUyfqB",
+        "slide_DEpRMA"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Bilder Slideshow zu BALSAMIKÖ"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "BALSAM I.K.Ö.  - bekannt durch 2 Minuten, 2&nbsp;Millionen - gibt deinem Essen den letzten Schliff!",
+            "heading": "BALSAM I.K.Ö.  - bekannt durch 2 Minuten, 2 Millionen - gibt deinem Essen den letzten Schliff!",
             "heading_size": "h0"
           }
         },
@@ -63,7 +137,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Ich will mit BALSAMIKÖ glänzen!",
-            "button_link_1": "shopify:\/\/products\/balsamiko-essig",
+            "button_link_1": "shopify:\/\/products\/balsamikoe-essig",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -76,8 +150,9 @@
         "text_DCXFqk",
         "buttons_9NA9Qg"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/PHOTO-2023-05-06-14-24-50.jpg",
+        "image": "shopify:\/\/shop_images\/Benjamin_mit_BALSAMIKO_Flasche_am_Schneidbrett.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-left",
@@ -88,6 +163,82 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Unsere Pakete",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "featured-homepage",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_yW7bbY": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_iiPbJG": {
+          "type": "heading",
+          "settings": {
+            "heading": "BALSAMIKÖ",
+            "heading_size": "h2"
+          }
+        },
+        "text_xw7Ybx": {
+          "type": "text",
+          "settings": {
+            "text": "Auch unsere Dressings und Essigzubereitungen lässt ihre Gäste ihre Speisen genießen und Sie zufrieden an den Genuss zurück denken. So wie bei 2 Min, 2 Mio vorgestellt.",
+            "text_style": "body"
+          }
+        },
+        "buttons_V8g6DY": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/products\/balsamikoe-essig",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iiPbJG",
+        "text_xw7Ybx",
+        "buttons_V8g6DY"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PHOTO-2023-05-06-14-25-09.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "featured_product_VtjEKF": {
@@ -147,7 +298,7 @@
         "share_gLixAx"
       ],
       "settings": {
-        "product": "balsamiko-essig",
+        "product": "balsamikoe-essig",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "medium",
@@ -160,89 +311,14 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_banner_yW7bbY": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_iiPbJG": {
-          "type": "heading",
-          "settings": {
-            "heading": "BALSAMIKÖ bei 2&nbsp;Minuten, 2&nbsp;Millionen präsentiert.",
-            "heading_size": "h2"
-          }
-        },
-        "text_xw7Ybx": {
-          "type": "text",
-          "settings": {
-            "text": "Auch unsere Dressings und Essigzubereitungen lässt ihre Gäste ihre Speisen genießen und Sie zufrieden an den Genuss zurück denken.",
-            "text_style": "body"
-          }
-        },
-        "buttons_V8g6DY": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "shopify:\/\/products\/balsamiko-essig",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_iiPbJG",
-        "text_xw7Ybx",
-        "buttons_V8g6DY"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/PHOTO-2023-05-06-14-25-09.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Pura Vida",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "featured-homepage-dressings-u-essigzubereitung",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "rich_text_GHDx4F",
+    "slideshow_eg84H4",
     "image_banner",
-    "featured_product_VtjEKF",
+    "featured_collection",
     "image_banner_yW7bbY",
-    "featured_collection"
+    "featured_product_VtjEKF"
   ]
 }

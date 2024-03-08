@@ -91,6 +91,28 @@
         "padding_bottom": 12
       }
     },
+    "rich_text_CtMx4N": {
+      "type": "rich-text",
+      "blocks": {
+        "text_kwxa6c": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>{{ product.metafields.custom.zitat_benjamin | metafield_tag }}<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_kwxa6c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -242,6 +264,7 @@
   },
   "order": [
     "main",
+    "rich_text_CtMx4N",
     "related-products",
     "rich_text_iCdfjz",
     "rich_text_kkbNNY",

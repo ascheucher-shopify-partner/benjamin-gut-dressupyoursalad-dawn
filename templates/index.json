@@ -106,7 +106,7 @@
         "slide_DEpRMA"
       ],
       "settings": {
-        "layout": "grid",
+        "layout": "full_bleed",
         "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": true,

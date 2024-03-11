@@ -71,7 +71,7 @@
           "settings": {
             "heading": "Wie lange ist der Balsamikö nach dem öffnen haltbar?",
             "icon": "check_mark",
-            "row_content": "<p>Du kannst unseren Balsamikö nach den öffnen ca 3 Monate verwenden.<\/p>",
+            "row_content": "<p>Du kannst unseren Balsamikö nach den öffnen ca. 3 Monate verwenden.<\/p>",
             "page": ""
           }
         },
@@ -80,7 +80,7 @@
           "settings": {
             "heading": "Wie lange ist der Balsamikö haltbar?",
             "icon": "check_mark",
-            "row_content": "<p>Ab Lieferung haben wir 12 Monate Mhd.<\/p>",
+            "row_content": "<p>Ab Lieferung haben wir ein Mindesthaltbarkeitsdatum vom 12 Monaten.<\/p>",
             "page": ""
           }
         }

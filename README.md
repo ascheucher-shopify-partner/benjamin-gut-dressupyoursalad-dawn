@@ -714,3 +714,43 @@ Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag ü
 — Datum
 
 (*) Unzutreffendes streichen
+
+## TODOs Google Search Console (GSC)
+
+[GSC](https://search.google.com/search-console/index?resource_id=sc-domain%3Adressupmysalad.com)
+
+ page | error | what's the problem | what to do | status
+-|-|-|-|-
+/ | Feld "hasMerchantReturnPolicy" fehlt (in „offers“) | [Merchant listing experiences](https://developers.google.com/search/docs/appearance/structured-data/product#merchant-listing-experiences) | set up the [new customer accounts](https://admin.shopify.com/store/dressupmysalad/settings/customer_accounts) and [activate the return policies](https://admin.shopify.com/store/dressupmysalad/settings/legal) | [X]
+/ | Feld "shippingDetails" fehlt (in „offers“) | [Merchant listing experiences](https://developers.google.com/search/docs/appearance/structured-data/product#merchant-listing-experiences) | [Shopify Community forum](https://community.shopify.com/c/ecommerce-marketing/how-to-fix-missing-field-quot-shippingdetails-quot-in-quot/m-p/2087441) =>&nbsp;Code&nbsp;it | [ ]
+/wpm | 404 | [search](https://www.google.com/search?q=shopify+google+search+console+wpm+not+indexed&oq=shopify+google+search+console+wpm+not+indexed&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTExMzYxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) / [Shopify NoIndex Bug](https://community.shopify.com/c/technical-q-a/shopify-bug-web-pixels-manager-sandbox/m-p/1987920#M122257%3Futm_source=communitymembers&utm_medium=email&utm_campaign=immediate_general) | temporary fix: [Add a Removal requiest in GSC](https://p1commerce.com/resources/shopify-web-pixels/) | [X]
+/ | Feld "aggregateRating" fehlt | xyz | =>&nbsp;Code&nbsp;it| [ ]
+/ | Feld "priceValidUntil" fehlt (in „offers“) | xyz | =>&nbsp;Code&nbsp;it | [ ]
+/ | Feld "review" fehlt | keine reviews aktiviert | aktivieren oder app installieren | [ ]
+/ | xyz | xyz | | [ ]
+
+## Google Conversion Tracking for Ads
+
+* [Shopify Doc to activate conversion tracking](https://help.shopify.com/en/manual/promoting-marketing/analyze-marketing/tracking-adwords-conversions#install-snippet)
+* [Set it up in the Ads Account](https://ads.google.com/aw/campaigns/new/express?campaignId=21095807992&ocid=283711619&subid=at-de-ha-aw-sk-c-bau%21o3~CjwKCAjw17qvBhBrEiwA1rU9wys6QATE2D5KL__hoe6EOWtE7m_pZgm9JasEvuSVf5QMIu40Xk7AEBoCjnAQAvD_BwE~149846711962~kwd-302420247578~20010078689~655721956983_emea-ha&step=cgali&mode=signup&euid=295414000&__u=2076486000&uscid=283711619&__c=9792959531&authuser=0&sourceid=emp)
+
+## SEO Backlinks
+
+### Social Profiles
+
+Profile anlegen und dann dort Backlinks mit den gewünschten Keywords anlegen.
+
+Keywords:
+
+* BALSAMIKÖ
+* BALSAMIKÖ 2 Minuten, 2 Millionen
+* BALSAMIKÖ 2 Min, 2 Mio
+* 
+
+Kurzer Text:
+
+## Product Page Recipe Divider
+
+```html
+Ornament Divider auf der Produktseite von <a href="https://de.freepik.com/vektoren-kostenlos/ornament-teilersammlung_4227613.htm#query=geschwungene%20linie&position=22&from_view=keyword&track=ais&uuid=ca3318ef-9815-432f-8a14-4a684dac830a">Freepik</a>
+```

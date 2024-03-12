@@ -58,7 +58,7 @@
           "type": "heading",
           "settings": {
             "heading": "BALSAMIKÖ bei 2 Minuten, 2 Millionen",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "text_9UDb9z": {
@@ -74,6 +74,7 @@
         "text_9UDb9z"
       ],
       "settings": {
+        "anchor": "",
         "image": "shopify:\/\/shop_images\/Unicorn_Header.jpg",
         "image_overlay_opacity": 50,
         "image_height": "small",

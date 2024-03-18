@@ -754,3 +754,40 @@ Kurzer Text:
 ```html
 Ornament Divider auf der Produktseite von <a href="https://de.freepik.com/vektoren-kostenlos/ornament-teilersammlung_4227613.htm#query=geschwungene%20linie&position=22&from_view=keyword&track=ais&uuid=ca3318ef-9815-432f-8a14-4a684dac830a">Freepik</a>
 ```
+
+## WeShip Open Points
+
+* Wo in Shopify die Lagerorte zuordnen?
+* Wie mit Bundles umgehen?
+  * Bekommen die einen eigenen Lagerstand, oder wird da einfach abgedreht, wenn einer der Bastandteile ausgeht?
+  * In Shopify wird der niedrigste Lagerstand der Bestandteile des Bundles verwendet.
+
+## Benjamin Open Points
+
+* Gewicht von Mango Essig stimmt vielleicht nicht: 500g? Eventuell wegen Versand wichtig.
+* OSS Registrierung!
+
+* sevDesk PayPal Anbindung
+* sevDesk Payment Gateway Anbindung
+* Lebensmittel Zusteller: Wien, Salzburg, Linz - Ninjas
+* wkö
+  * account passwort ändern
+  * firmennamen änderung melden
+  * homepage verlinken
+
+* homepage links von:
+  * [Alimentastic](https://alimentastic.com/)
+  * Biogena
+
+## Installierte Apps
+
+* sevDesk - Rechnungserstellung & Buchhaltungsexport
+* Flow
+* Alt Text King - ALT Text für Varianten Bilder
+* Shopify Bundles - Produktbundles
+* Search & Discovery - Erstellen der Featured Collections
+* JSON Express for SEO - 
+* Google & YouTube - für Google Analytics Anbindung und Merchants Center
+* beeclever GDPR Legal Cookie - Cookiebanner
+* Shop - Shopify Payments
+* Point of Sale - nicht benutzt

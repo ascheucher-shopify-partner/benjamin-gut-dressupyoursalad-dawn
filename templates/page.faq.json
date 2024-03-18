@@ -15,7 +15,7 @@
           "type": "heading",
           "settings": {
             "heading": "Oft gestellte Fragen",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         }
       },
@@ -23,6 +23,7 @@
         "heading_e8NnMJ"
       ],
       "settings": {
+        "anchor": "",
         "image": "shopify:\/\/shop_images\/PHOTO-2023-05-11-23-04-19.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",

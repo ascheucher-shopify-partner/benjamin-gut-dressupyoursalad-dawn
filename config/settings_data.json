@@ -135,6 +135,14 @@
     "content_for_index": [
 
     ],
+    "blocks": {
+      "7779870835509955477": {
+        "type": "shopify:\/\/apps\/mailerlite-email-automation\/blocks\/app-embed\/3e7771ef-b1fb-4ce4-9863-8a56a6e483c4",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    },
     "color_schemes": {
       "scheme-1": {
         "settings": {

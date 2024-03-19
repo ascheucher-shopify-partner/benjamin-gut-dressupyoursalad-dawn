@@ -484,12 +484,16 @@ Color Palette basierend auf die Logo Farbe: https://coolors.co/00a995
 
 scroll down to color palettes
 
+Used the [HSL Picker](https://hslpicker.com/#ff8624) to play with the Lightness values.
+
 Palette 1:
-004b68
-00a995
-ffc01f
-ff8623
-ff3b09
+really dark | darker | base | lighter | really light | extremely light
+-|-|-|-|-|-
+00121a (5) <img valign='middle' src='https://readme-swatches.vercel.app/00121a'/> | 002533(10) <img valign='middle' src='https://readme-swatches.vercel.app/002533'/> | 004b68 (20) <img valign='middle' src='https://readme-swatches.vercel.app/004b68'/> | 0092cc (40) <img valign='middle' src='https://readme-swatches.vercel.app/0092cc'/>| 99e2ff (80) <img valign='middle' src='https://readme-swatches.vercel.app/99e2ff'/> | |
+ 003832 (11) <img valign='middle' src='https://readme-swatches.vercel.app/003832'/> | 007063 (22) <img valign='middle' src='https://readme-swatches.vercel.app/007063'/> | 00a995 (33) <img valign='middle' src='https://readme-swatches.vercel.app/00a995'/> | 1affe4 (55) <img valign='middle' src='https://readme-swatches.vercel.app/1affe4'/> | 8afff1 (77) <img valign='middle' src='https://readme-swatches.vercel.app/8afff1'/> | f5fffe (97) <img valign='middle' src='https://readme-swatches.vercel.app/f5fffe'/>
+  473300 (14) <img valign='middle' src='https://readme-swatches.vercel.app/473300'/> | ad7c00 (34) <img valign='middle' src='https://readme-swatches.vercel.app/ad7c00'/> | ffc01f (56) <img valign='middle' src='https://readme-swatches.vercel.app/ffc01f'/> | ffdc85 (76) <img valign='middle' src='https://readme-swatches.vercel.app/ffdc85'/> | fff3d6 (92) <img valign='middle' src='https://readme-swatches.vercel.app/fff3d6'/>
+ a84c00 (33) <img valign='middle' src='https://readme-swatches.vercel.app/a84c00'/> | e66700 (45) <img valign='middle' src='https://readme-swatches.vercel.app/e66700'/> | ff8623 (57) <img valign='middle' src='https://readme-swatches.vercel.app/ff8623'/> | ffc494 (79) <img valign='middle' src='https://readme-swatches.vercel.app/ffc494'/> | ffe6d1 (91) <img valign='middle' src='https://readme-swatches.vercel.app/ffe6d1'/>
+ 661400 (20) <img valign='middle' src='https://readme-swatches.vercel.app/661400'/> | 9e2000 (31) <img valign='middle' src='https://readme-swatches.vercel.app/9e2000'/> | ff3b09 (52) <img valign='middle' src='https://readme-swatches.vercel.app/ff3b09'/> | ff9175 (73) <img valign='middle' src='https://readme-swatches.vercel.app/ff9175'/> | ffc2b3 (85) <img valign='middle' src='https://readme-swatches.vercel.app/ffc2b3'/>
 
 Palette 2:
 f87131
@@ -791,3 +795,14 @@ Ornament Divider auf der Produktseite von <a href="https://de.freepik.com/vektor
 * beeclever GDPR Legal Cookie - Cookiebanner
 * Shop - Shopify Payments
 * Point of Sale - nicht benutzt
+
+
+## What express Button is shown on the product page:
+
+Where PayPal shows on the product page, this is called the dynamic checkout. The kind of dynamic checkout button that displays to your customers depends on the following factors:
+
+* your payment settings
+* whether Shop Promise is active, which will prioritize Shop Pay over other checkouts
+* the customer's browser
+* the customer's device
+* the customer's personal payment history

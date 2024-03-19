@@ -289,7 +289,7 @@
       ],
       "settings": {
         "product": "balsamikoe-essig",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,

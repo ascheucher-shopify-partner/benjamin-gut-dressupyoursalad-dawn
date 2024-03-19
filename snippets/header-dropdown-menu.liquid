@@ -21,7 +21,9 @@
                     class="header__active-menu-item"
                   {% endif %}
                 >
-                  {{- link.title | escape -}}
+                  <a href="{{ link.url }}">
+                    {{- link.title | escape -}}
+                  </a>
                 </span>
                 {% render 'icon-caret' %}
               </summary>
@@ -93,7 +95,9 @@
                 class="header__active-menu-item"
               {% endif %}
             >
-              {{- link.title | escape -}}
+              <a href="{{ link.url }}">
+                {{- link.title | escape -}}
+              </a>
             </span>
           </a>
         {%- endif -%}

@@ -795,3 +795,14 @@ Ornament Divider auf der Produktseite von <a href="https://de.freepik.com/vektor
 * beeclever GDPR Legal Cookie - Cookiebanner
 * Shop - Shopify Payments
 * Point of Sale - nicht benutzt
+
+
+## What express Button is shown on the product page:
+
+Where PayPal shows on the product page, this is called the dynamic checkout. The kind of dynamic checkout button that displays to your customers depends on the following factors:
+
+* your payment settings
+* whether Shop Promise is active, which will prioritize Shop Pay over other checkouts
+* the customer's browser
+* the customer's device
+* the customer's personal payment history

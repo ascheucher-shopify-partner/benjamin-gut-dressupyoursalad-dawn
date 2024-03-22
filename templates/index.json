@@ -369,6 +369,50 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "ss_cookie_banner_7yhArf": {
+      "type": "ss-cookie-banner",
+      "blocks": {
+        "accept_button_qGizBx": {
+          "type": "accept_button",
+          "settings": {
+            "button_text": "Accept",
+            "button_color": "#d99d42",
+            "button_text_color": "#ffffff",
+            "button_border_color": "#000000",
+            "button_border_width": 0,
+            "button_border_radius": 24
+          }
+        },
+        "decline_button_Xwngrq": {
+          "type": "decline_button",
+          "settings": {
+            "redirect_url": "",
+            "button_text": "Decline",
+            "button_color": "#ffffff",
+            "button_text_color": "#000000",
+            "button_border_color": "#000000",
+            "button_border_width": 1,
+            "button_border_radius": 24
+          }
+        }
+      },
+      "block_order": [
+        "accept_button_qGizBx",
+        "decline_button_Xwngrq"
+      ],
+      "settings": {
+        "text_color": "#002533",
+        "text_size": 16,
+        "text": "<p>🍪 Diese Seite verwendet Cookies. Bitte stimmen Sie unserer Cookie-Richtlinie zu, indem Sie auf 'Akzeptieren' klicken.<\/p>",
+        "max_width": 400,
+        "background_color": "#f5fffe",
+        "border_radius": 24,
+        "vertical_padding": 20,
+        "horizontal_padding": 20,
+        "placement": "bottom-right",
+        "enable_shadow": true
+      }
     }
   },
   "order": [
@@ -379,6 +423,7 @@
     "image_banner_yW7bbY",
     "featured_product_VtjEKF",
     "image_banner_BbMaag",
-    "rich_text_TTJea8"
+    "rich_text_TTJea8",
+    "ss_cookie_banner_7yhArf"
   ]
 }

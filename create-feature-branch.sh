@@ -56,7 +56,9 @@ if [[ anyuncommited -ne 0 ]]; then
 fi
 
 # create the feature branch
+set -x
 git checkout -b ${feature_branch}
+set +x
 
 # get config count
 config_count=$(cat shopify.theme.toml | grep 'port = 929' | wc -l)
@@ -65,10 +67,10 @@ if [[ ${config_count} -gt 9 ]]; then
   exit 1
 fi
 
-# get store from first config
+# get store from last config
 store=$(cat shopify.theme.toml | grep 'store' | head -1 | cut -d'"' -f2)
 
-# get password from first config
+# get password from last config
 password=$(cat shopify.theme.toml | grep 'password' | head -1 | cut -d'"' -f2)
 
 # get next port number
@@ -87,7 +89,9 @@ port = ${next_port}
 EOT
 
 # push as new theme to shopify
+set -x
 shopify theme push -u -t ${feature_branch}
+set +x
 
 echo "Feature branch ${feature_branch} created and pushed to shopify."
 echo 

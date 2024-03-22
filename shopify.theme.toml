@@ -36,8 +36,15 @@ port = 9291
 
 [environments.trekkie-test]
 theme = "trekkie-test"                                 # "dressupmysalad/menu"
-store = "dressupmysalad-ws-test"
+store = "dressupmysalad"
 password = "shptka_60f322094f079e78acb1ea08cd3d92d7"
 port = 9292
 # shopify theme dev --theme-editor-sync -e menu
 
+
+[environments.cookies]
+theme = "cookies"
+store = "dressupmysalad"
+password = "shptka_c23ff01e1ebc4c1be33f59f8604b5ba3"
+port = 9293
+# shopify theme dev --theme-editor-sync -e cookies

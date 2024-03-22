@@ -1,0 +1,43 @@
+# Never use theme IDs of GitHub connected themes for e.g.: shopify theme dev -e main! 
+# 
+# Every change that get's synched, get's a new commit in the repo!
+#
+# Get the password for the store:
+# * install the Shopify Theme Access App
+# * request a password for a developer, mail configmation
+#
+# Upload to a different store: shopify theme push -s shop-name -u --theme theme-name
+# 
+# how to develop on a branch:
+# * git chekout -b feature_branch
+# * edit this file and add a new section with the feature_branch name
+# * shopify theme push -u -t feature_branch
+# * [shopify theme pull] - optional: to get latest theme setup changes
+# * shopify theme dev --theme-editor-sync -e feature_branch
+
+[environments.main]
+theme = "ID-HERE"                                 # "dressupmysalad/main"
+store = "dressupmysalad"
+password = ""
+port = 9290
+# nie mit der "shopify theme dev" CLI am main theme arbeiten!
+# das synched zum installierten main theme und wenn das mit GitHub Connect 
+# verbunden ist, commited es das sofort zum main theme auf GitHub!
+# der nächste pull hat dann konflikte
+
+
+[environments.menu]
+theme = "menu"                                 # "dressupmysalad/menu"
+store = "dressupmysalad"
+password = "shptka_c23ff01e1ebc4c1be33f59f8604b5ba3"
+port = 9291
+# shopify theme dev --theme-editor-sync -e menu
+
+
+[environments.trekkie-test]
+theme = "trekkie-test"                                 # "dressupmysalad/menu"
+store = "dressupmysalad-ws-test"
+password = "shptka_60f322094f079e78acb1ea08cd3d92d7"
+port = 9292
+# shopify theme dev --theme-editor-sync -e menu
+

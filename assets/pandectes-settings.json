@@ -6,7 +6,7 @@
     "primaryLocale": "de",
     "adminMode": false
   },
-  "tsPublished": 1711116445,
+  "tsPublished": 1711116536,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -315,8 +315,8 @@
       }
     },
     "content": {
-      "href": "https:\/\/dressupmysalad.myshopify.com\/policies\/privacy-policy",
-      "imprintHref": "\/",
+      "href": "\/policies\/privacy-policy#cookies",
+      "imprintHref": "\/policies\/legal-notice",
       "close": "&#10005;",
       "target": "",
       "logo": "<img class=\"cc-banner-logo\" height=\"40\" width=\"40\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0603\/6579\/9484\/t\/3\/assets\/pandectes-logo.png?v=1711113047\" alt=\"Dress Up My Salad\" \/>"

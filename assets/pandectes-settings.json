@@ -6,7 +6,7 @@
     "primaryLocale": "de",
     "adminMode": false
   },
-  "tsPublished": 1711113066,
+  "tsPublished": 1711113127,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -381,19 +381,405 @@
   },
   "cookies": {
     "0": [
-
+      {
+        "name": "secure_customer_sig",
+        "domain": "dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Wird im Zusammenhang mit dem Kundenlogin verwendet."
+        }
+      },
+      {
+        "name": "keep_alive",
+        "domain": "dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "de": "Wird im Zusammenhang mit der Käuferlokalisierung verwendet."
+        }
+      },
+      {
+        "name": "localization",
+        "domain": "dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Lokalisierung von Shopify-Shops"
+        }
+      },
+      {
+        "name": "cart_currency",
+        "domain": "dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "2 ",
+        "expires": 2,
+        "unit": "declSession",
+        "purpose": {
+          "de": "Das Cookie ist für die sichere Checkout- und Zahlungsfunktion auf der Website erforderlich. Diese Funktion wird von shopify.com bereitgestellt."
+        }
+      },
+      {
+        "name": "shopify_pay_redirect",
+        "domain": "dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 hour(s)",
+        "expires": 1,
+        "unit": "declHours",
+        "purpose": {
+          "de": "Das Cookie ist für die sichere Checkout- und Zahlungsfunktion auf der Website erforderlich. Diese Funktion wird von shopify.com bereitgestellt."
+        }
+      },
+      {
+        "name": "_cmp_a",
+        "domain": ".dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 day(s)",
+        "expires": 1,
+        "unit": "declDays",
+        "purpose": {
+          "de": "Wird zum Verwalten der Datenschutzeinstellungen des Kunden verwendet."
+        }
+      },
+      {
+        "name": "_tracking_consent",
+        "domain": ".dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Tracking-Einstellungen."
+        }
+      },
+      {
+        "name": "identity-state",
+        "domain": "account.dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 hour(s)",
+        "expires": 1,
+        "unit": "declHours",
+        "purpose": {
+          "de": "Wird im Zusammenhang mit der Kundenauthentifizierung verwendet."
+        }
+      },
+      {
+        "name": "_pandectes_gdpr",
+        "domain": ".dressupmysalad.com",
+        "path": "\/",
+        "provider": "Pandectes",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Wird für die Funktionalität des Cookies-Zustimmungsbanners verwendet."
+        }
+      },
+      {
+        "name": "_secure_account_session_id",
+        "domain": "account.dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 month(s)",
+        "expires": 1,
+        "unit": "declMonths",
+        "purpose": {
+          "de": "Used to track a user's session for new customer accounts."
+        }
+      },
+      {
+        "name": "customer_account_locale",
+        "domain": "account.dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Used in connection with new customer accounts."
+        }
+      },
+      {
+        "name": "identity-state-5472d9e8c623e1083548ce673a0210ae",
+        "domain": "account.dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 hour(s)",
+        "expires": 1,
+        "unit": "declHours",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "identity-state-d1a9ba1a0e409fcf15d3f4010cbf047e",
+        "domain": "account.dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 hour(s)",
+        "expires": 1,
+        "unit": "declHours",
+        "purpose": {
+          "de": ""
+        }
+      }
     ],
     "1": [
-
+      {
+        "name": "wpm-domain-test",
+        "domain": "com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": "Wird verwendet, um die Speicherung von Parametern zu Produkten, die dem Warenkorb hinzugefügt wurden, oder zur Zahlungswährung zu testen"
+        }
+      },
+      {
+        "name": "wpm-domain-test",
+        "domain": "dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": "Wird verwendet, um die Speicherung von Parametern zu Produkten, die dem Warenkorb hinzugefügt wurden, oder zur Zahlungswährung zu testen"
+        }
+      }
     ],
     "2": [
-
+      {
+        "name": "_orig_referrer",
+        "domain": ".dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "2 ",
+        "expires": 2,
+        "unit": "declSession",
+        "purpose": {
+          "de": "Verfolgt Zielseiten."
+        }
+      },
+      {
+        "name": "_landing_page",
+        "domain": ".dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "2 ",
+        "expires": 2,
+        "unit": "declSession",
+        "purpose": {
+          "de": "Verfolgt Zielseiten."
+        }
+      },
+      {
+        "name": "_shopify_sa_t",
+        "domain": "dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "de": "Shopify-Analysen in Bezug auf Marketing und Empfehlungen."
+        }
+      },
+      {
+        "name": "_ga",
+        "domain": ".dressupmysalad.com",
+        "path": "\/",
+        "provider": "Google",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Cookie wird von Google Analytics mit unbekannter Funktionalität gesetzt"
+        }
+      },
+      {
+        "name": "_shopify_sa_p",
+        "domain": "dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "de": "Shopify-Analysen in Bezug auf Marketing und Empfehlungen."
+        }
+      },
+      {
+        "name": "_shopify_y",
+        "domain": ".dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Shopify-Analysen."
+        }
+      },
+      {
+        "name": "_shopify_s",
+        "domain": ".dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "de": "Shopify-Analysen."
+        }
+      },
+      {
+        "name": "_shopify_s",
+        "domain": "com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": "Shopify-Analysen."
+        }
+      },
+      {
+        "name": "_boomr_clss",
+        "domain": "https:\/\/dressupmysalad.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Wird zur Überwachung und Optimierung der Leistung von Shopify-Shops verwendet."
+        }
+      },
+      {
+        "name": "_ga_27V6Y8NB4E",
+        "domain": ".dressupmysalad.com",
+        "path": "\/",
+        "provider": "Google",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      }
     ],
     "4": [
 
     ],
     "8": [
-
+      {
+        "name": "device_id",
+        "domain": "shopify.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_identity_session",
+        "domain": "shopify.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "local-storage-test",
+        "domain": "https:\/\/dressupmysalad.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "__Host-_identity_session_same_site",
+        "domain": "shopify.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "cf_chl_3",
+        "domain": "shopify.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 hour(s)",
+        "expires": 1,
+        "unit": "declHours",
+        "purpose": {
+          "de": ""
+        }
+      }
     ]
   },
   "blocker": {
